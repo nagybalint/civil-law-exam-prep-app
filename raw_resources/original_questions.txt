@@ -1,0 +1,2914 @@
+﻿TESZTKÉRDÉSEK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ez a lista a PPKE JÁK Polgári Jogi Tanszék által 2014-2019 között felhasznált „nyerstesztkérdések” gyűjteménye. „Nyers”, mert: 
+* nem kizárt az egyes kérdések nehézségi foka közötti jelentős különbség; 
+* nem kizárt az egyes kérdések többszörös előfordulása; 
+* nem kizárt a jelenleg már hatályon kívül helyezett részekre való utalás, hiszen a gyűjteményben szereplő tesztkérdések különböző időállapotokat tükröz(het)nek; 
+* nem kizárt olyan kérdések szerepeltetése, amelyek „éles” tesztlapon nem fordulnak elő(☺); 
+* nem kizárt, hogy a következő tesztkérdések között fel nem sorolt kérdések is felkerülnek az „éles” tesztlapokra (☹); stb. 
+Természetesen az írásbeli záróvizsgarész keretében megíratandó tesztfeladatsorok összeállítása során minden évben újra és újra hatályosítjuk a kérdéseket, s az egyes „éles” tesztlapok véglegesítése során az arra felkerülő kérdések nehézségi fokára is figyelemmel vagyunk, elkerülendő mind a hatálytalan, a félreérthető, a kétértelmű, avagy a túl könnyű/nehéz kérdések alkalmazását. Az egyes „éles” kérdéssorok összeállítása során valamennyi nagyobb témakörből (általános rész, személyek joga, jogi személyek, családjog, dologi jog, kötelmi jog, öröklési jog) szerepeltetünk 4-5 kérdést mindegyik tesztlapon, azzal a céllal, hogy a tesztlapok a záróvizsgán számonkért tananyag egészét lefedjék. 
+A fenti, adott esetben megszorító értelmezések mellett is alkalmasnak ítéljük ugyanakkor ezen „nyers-tesztkérdések” közzétételét arra, hogy segítse a Polgári Jogból záróvizsgára készülő Hallgatók felkészülését. 
+ 
+2020.február 14. 
+ 
+ 
+                                                               Polgári Jogi Tanszék 
+          
+ÁLTALÁNOS RÉSZ – BEVEZETŐ RENDELKEZÉSEK (Ptk.: Első Könyv) 
+ 
+ 
+ 
+1. Melyik NEM jellemzi a polgári jogi normákat? 
+A) a mellérendeltség és egyenjogúság 
+   2. abszolút és relatív jogviszonyok 
+   3. eltérést engedő normák 
+   4. kizárólag kógens szabályok 
+ 
+2. Melyik állítás igaz a vélelemről és a fikcióról?  
+   1. a vélelem lehet megdönthető, a fikció nem 
+   2. a fikció lehet megdönthető, a vélelem nem 
+   3. a vélelem mindig megdönthető 
+   4. a fikció mindig megdönthető 
+ 
+3. Mi jelenti a ’világi természetjog’ alapgondolatát?  
+   1. a jog tagozódása írott (ti. tárgyi-) és íratlan (ti. szokás-) jogra 
+   2. a jog tagozódása pozitív jogra és „felette álló” jogra 
+   3. a regionalizmus (ti. a partikuláris jogok) elsőbbsége 
+   4. a pozitív jog (ti. norma agendi) elsőbbsége 
+ 
+4. Milyen jogot alkalmaz – fő sajátosságaként - az angolszász jogban a Kancelláriai 
+Bíróság? 
+   5. case law-t 
+   6. equity law-t 
+   7. törvényi jogot 
+   8. common law-t 
+ 
+5. Mikor készült el a nevezetes ötödik magyar Magánjogi Törvényjavaslat (Mtj.)?  
+A) 1848.évi XV.tc. 
+   2. 1875.évi XXXVII.tc. 
+   3. 1922 
+   4. 1928 
+ 
+6. Kinek a nevéhez kapcsolható az első magyar kereskedelmi törvény? 
+   1. Szászy István 
+   2. Grosschmid Béni 
+   3. Wenczel Gusztáv 
+   4. Apáthy István 
+ 
+7. Ki(k)nek volt fontos szerepe az 1959.évi IV.tv.előkészítésében?  
+A) Szladits Károly, Zlinszky János 
+   2. Vékás Lajos, Sólyom László 
+   3. Mádl Ferenc 
+   4. Világhy Miklós, Eörsi Gyula 
+ 
+8. Mi az analógia legis?  
+   1. az analogia iuris alóli kivétel 
+   2. a pacta sunt servanda alóli kivétel 
+   3. ha nem szabályozott tényállásra olyan szabályt alkalmazunk, amely egy ahhoz hasonló tényállásra vonatkozik 
+   4. ha nem szabályozott tényállásra a természetjog vagy a szokásjog íratlan rendelkezéseit alkalmazzuk (contra legem értelmezés) 
+ 
+9. Mikor beszélünk hiteles jogértelmezésről?  
+A) ha a jogszabályt a jogtudomány magyarázza 
+   2. ha a jogszabályt a közjegyző magyarázza 
+   3. ha a jogszabályt a jogalkotó magyarázza 
+   4. ha a jogszabályt az Alkotmánybíróság magyarázza 
+ 
+10. A jóhiszeműség…  
+A) objektív emberi adottság 
+   2. belátási képességet befolyásoló állapot 
+   3. beszámítási képességet befolyásoló állapot 
+   4. tudatállapot 
+ 
+11. Milyen vélelmet állít a Ptk. a fogamzás időpontjának megállapítására? 
+   1. praesumptio iuris 
+   2. praesumptio iuris et de iure 
+   3. analogia iuris 
+   4. analogia legis 
+ 
+12. Mikor alakulnak át az abszolút szerkezetű jogok relatív szerkezetű jogviszonnyá? 
+   1. csak bírósági határozat alapján 
+   2. minden esetben, ha a felek erről szerződésben külön megállapodnak 
+   3. ha a felek azt szabad akaratukból átalakítják 
+   4. a jogsértés ténye folytán, a jogsértővel szemben 
+ 
+13. Melyik NEM magánjogi jogforrás? 
+   1. a szokás 
+   2. az erkölcs 
+   3. a tudomány 
+   4. az Alaptörvény 
+ 
+14. Hivatkozhat-e a másik fél felróható magatartására az, aki maga felróhatóan járt el? 
+   1. igen 
+   2. nem  
+   3. kizárólag, ha enyhe fokú gondatlanság terheli 
+   4. kizárólag, ha mulasztását ellenőrzési körén kívül eső elháríthatatlan ok okozta 
+ 
+15. Mire vezethető vissza a Tripartitum elnevezése?  
+   1. három könyvből áll: közjog (ius publicum), magánjog (ius privatum), kánonjog (ius canonici) 
+   2. három könyvből áll: személyek joga, dolgok joga, keresetek joga (a legkisebb rossz válasz)
+   3. a három részre szakadt ország jogszabályait gyűjtötte össze: magyar részek joga, erdélyi részek joga, török hódoltság joga 
+   4. a három részre szakadt ország joggyakorlatát gyűjtötte össze: magyar részek joga, erdélyi részek joga, török hódoltság joga 
+ 
+16. Ki állította össze a Corpus Iuris első kiadását Magyarországon? 
+   1. Apáthy István és Frank Ignác 
+   2. Werbőczy István 
+   3. Mosóczi Zakar és Telegdy Miklós 
+   4. Mária Terézia 
+ 
+17. Ki alkotott jelentőset a felelősségi jog és az összehasonlító polgári jog területén?  
+   1. Eörsi Gyula 
+   2. Eörsi Mátyás 
+   3. Eörsi István 
+   4. Eörsi Géza 
+ 
+18. Mi a fikció? 
+   1. a fikciós elméletek alkalmazása 
+   2. valószínű tény elfogadása valónak 
+   3. valótlan tény elfogadása valónak 
+   4. vélelem 
+ 
+19. Mit jelent a lex specialis derogat legi generali szabálya?  
+   1. az általános szabályt „lerontja” a különös szabály 
+   2. az általános szabály „lerontja” a különös szabályt 
+   3. adott esetre csak különös szabály vonatkozik 
+   4. adott esetre csak általános szabály vonatkozik 
+ 
+20. Mi NEM külső körülmény, mint jogi tény?  
+   1. az idő folyása 
+   2. halál 
+   3. elévülés 
+   4. vis maior 
+ 
+21. Melyek az abszolút szerkezetű jogviszonyok fő területei?  
+   1. a kötelmi jog és a dologi jog 
+   2. a személyi jog és a dologi jog 
+   3. a ius publicum 
+   4. a ius publicum és a nemzetközi magánjog 
+ 
+22. Melyik NEM a Ptk. I. könyvében szereplő polgári jogi alapelv? 
+   1. jóhiszeműség 
+   2. tisztesség 
+   3. utaló magatartás 
+   4. elvárható magatartás 
+ 
+23. Melyik NEM jellemzi a polgári jogi normákat? 
+A) a mellérendeltség és egyenjogúság 
+   2. abszolút és relatív jogviszonyok 
+   3. eltérést engedő normák 
+   4. kizárólag kógens szabályok 
+ 
+24. Ha a joggal való visszaélés jogszabály által megkívánt nyilatkozat megtagadásában áll, milyen feltétellel pótolhatja a bíróság ítéletével a nyilatkozatot? 
+   1. joggal való visszaélés esetén minden további feltétel nélkül 
+   2. ha a nyilatkozat megtagadóját felróhatóság terheli 
+   3. ha a nyilatkozat megtagadása egyben nyomós közérdeket vagy különös méltánylást érdemlő magánérdeket sért 
+   4. nem         pótolhatja,         mert         ez         igazolhatatlan         beavatkozást         jelentene         a         felek magánautonómiájába 
+ 
+25. Melyik uralkodó adott utasítást Werbőczy Istvánnak műve elkészítésére?  
+   1. II. József 
+   2. II. Ulászló 
+   3. V. Károly 
+   4. Mária Terézia 
+ 
+26. Mikor lépett hatályba az 1928-as Magánjogi Törvényjavaslat?  
+   1. 1929. január 1-jén 
+   2. 1929. május 1-jén 
+   3. 1930. január 1-jén 
+   4. nem lépett hatályba 
+ 
+27. Ki a XIX. század közepének legnevesebb magyar jogtudósa? 
+   1. Zsögöd Benő 
+   2. Szladits Károly 
+   3. Frank Ignác 
+   4. Schwarz Gusztáv 
+ 
+28. Mi volt az Országbírói Értekezlet által elfogadott jogi dokumentum?  
+   1. Magyarország Magánjogi Törvénykönyvének Törvényjavaslata 
+   2. Mtj. 
+   3. Ideiglenes Törvénykezési Szabályok 
+   4. OÉT 
+ 
+29. Kinek a nevéhez kapcsolható a Magyar Magánjog c. hatkötetes mű szerkesztése (1939-1942)?  
+   1. Szászy-Schwarz Gusztáv  
+   2. Grosschmid Béni 
+   3. Eörsi Gyula 
+   4. Szladits Károly 
+ 
+30. Ki nem a XX. századi magyar magánjogtudomány képviselője?  
+   1. Frank Ignác 
+   2. Grosschmid Béni 
+   3. Szladits Károly 
+   4. Marton Géza 
+ 
+31. Mit nevezünk analógiának?  
+   1. ha nem szabályozott tényállásra egy polgári jogi alapelvet alkalmazunk 
+   2. ha nem szabályozott tényállásra olyan szabályt alkalmazunk, amely egy ahhoz hasonló tényállásra vonatkozik 
+   3. a kiterjesztő magyarázatot 
+   4. a megszorító magyarázatot 
+ 
+32. Ki értelmezheti, magyarázhatja hitelesen a jogszabályokat?  
+A) a Kúria (ti. a korábbi Legfelsőbb Bíróság) 
+   2. a minisztériumok 
+   3. a jogalkotók, jogalkalmazók, a jogtudomány 
+   4. a nagy jogtudósok külön felkérésre 
+ 
+33. Hatásuk szerint milyen szankciókat különböztetünk meg?  
+A) progresszív és represszív 
+   2. megtorló és reparatív 
+   3. reparatív és regresszív 
+   4. szubjektív és objektív 
+ 
+34. Az abszolút szerkezetű negatív tartalmú jogviszonyokban…  
+   1. a jogosult köteles tűrni a mindenki más joggyakorlását, és tartózkodnia kell annak bármiféle zavarásától 
+   2. mind a két fél tűrni köteles a másik fél joggyakorlását 
+   3. a személyek jogait csak a polgári jogi alapelvek korlátozhatják 
+   4. a kötelezett köteles tűrni a jogosult joggyakorlását, és tartózkodnia kell annak bármiféle zavarásától 
+ 
+35. Mit jelent a jogszabály érvényessége? 
+A) a jogszabály szabályszerűen létrejött 
+   2. a jogszabály alkalmazható 
+   3. a jogszabály hatályos 
+   4. a jogszabályt elfogadta az Országgyűlés és hatályba lépett 
+ 
+36. Egy norma akkor diszpozitív, ha…  
+   1. az Alkotmánybíróság az adott normától eltérést enged 
+   2. az Alaptörvény az adott normától eltérést enged 
+   3. a jogszabály az előírt magatartástól eltérést enged 
+   4. lex specialis derogat legi generali 
+ 
+37. Jogi ténynek minősül-e az elévülés?  
+   1. nem, ez csak a kötelmi jogban fordulhat elő 
+   2. nem 
+   3. igen 
+D) igen, de csak a személyhez fűződő jogok esetén 
+ 
+38. Melyek a relatív szerkezetű jogviszonyok fő területei? 
+   1. dologi jog 
+   2. személyek joga 
+   3. szellemi alkotások joga 
+   4. kötelmi jog 
+ 
+39. Melyik NEM jellemzi a polgári jogi normákat? 
+A) a mellérendeltség és egyenjogúság  
+   2. abszolút és relatív jogviszonyok 
+   3. eltérést engedő normák  
+   4. kizárólag kógens szabályok  
+ 
+40. Elsődlegesen milyen jogokat biztosít a magánjog? 
+   1. a közhatalom jogait 
+   2. a személyeket megillető alanyi jogokat 
+   3. állampolgári jogokat 
+   4. az emberi jogokat 
+ 
+41. Az alábbiak közül melyik jogi tény NEM tartozik a jogos magatartások közé? 
+   1. szerződéskötés 
+   2. megbocsátás 
+   3. önhiba 
+   4. teljesítés 
+ 
+42. Hivatkozhat-e a másik fél felróható magatartására az, aki maga felróhatóan járt el? A) igen 
+   2. nem  
+   3. kizárólag, ha enyhe fokú gondatlanság terheli 
+   4. kizárólag, ha mulasztását ellenőrzési körén kívül eső elháríthatatlan ok okozta 
+ 
+43. Melyik állítás igaz a vélelemről és a fikcióról? 
+A) a vélelem lehet megdönthető, a fikció nem 
+   2. a fikció megdönthető, a vélelem nem 
+   3. a vélelem mindig megdönthető 
+   4. a fikció mindig megdönthető 
+ 
+44. Melyik NEM magánjogi jogforrás? 
+   1. a szokás 
+   2. az erkölcs 
+   3. a tudomány 
+   4. az Alaptörvény 
+ 
+45. Mi a polgári jog☺? 
+   1. a polgári jog az „önzés bibliája” 
+   2. a polgári jog NEM az „önzés bibliája” (!) 
+   3. a polgári jog a polgárjogok (!) egyike, ti. abból kiszakadt jogág 
+   4. Nem értek egyet a kérdésfeltevéssel! 
+ 
+46. Melyik NEM a Ptk. I. könyvében szereplő polgári jogi alapelv? 
+   1. jóhiszeműség 
+   2. tisztesség 
+   3. utaló magatartás 
+   4. elvárható magatartás 
+ 
+47. Milyen jogokat biztosít a magánjog? 
+   1. a közhatalom jogait 
+   2. a személyeket megillető alanyi jogokat 
+   3. állampolgári jogokat 
+   4. az emberi jogokat 
+ 
+48. Melyik NEM magánjogi jogforrás? 
+   1. a szokás 
+   2. az erkölcs 
+   3. a tudomány 
+   4. az Alaptörvény 
+ 
+49. Ha a joggal való visszaélés jogszabály által megkívánt nyilatkozat megtagadásában áll, milyen feltétellel pótolhatja a bíróság ítéletével a nyilatkozatot? 
+   1. joggal való visszaélés esetén minden további feltétel nélkül 
+   2. ha a nyilatkozat megtagadóját felróhatóság terheli 
+   3. ha a nyilatkozat megtagadása egyben nyomós közérdeket vagy különös méltánylást érdemlő magánérdeket sért 
+   4. nem         pótolhatja,         mert         ez         igazolhatatlan         beavatkozást         jelentene         a         felek magánautonómiájába 
+ 
+50. Melyik NEM a Ptk. I. könyvében szereplő polgári jogi alapelv? 
+   1. jóhiszeműség 
+   2. tisztesség 
+   3. utaló magatartás 
+   4. elvárható magatartás 
+ 
+51. Milyen jogokat biztosít a magánjog? 
+   1. a közhatalom jogait 
+   2. a személyeket megillető alanyi jogokat 
+   3. állampolgári jogokat 
+   4. az emberi jogokat 
+ 
+          
+SZEMÉLYEK JOGA (Ptk.: Második és Harmadik Könyv) 
+  
+52. Ki a magzati gyám? 
+   1. a méhmagzat érdekeit képviselő gyámi jogkörben eljáró személy 
+   2. kizárólag a magzat vagyonát kezelő személy 
+   3. a magzat kiskorú anyjának törvényes képviselője 
+   4. a gyermek érdekeit védő, a bíróság által kirendelt személy 
+ 
+53. Milyen érvényes jognyilatkozatot tehet önállóan az alábbiak közül a cselekvőképtelen kiskorú? 
+   1. végrendelkezhet, mert ez egy személyesen teendő jognyilatkozat 
+   2. házasságot köthet, mert ez egy személyesen teendő jognyilatkozat 
+   3. rendelkezhet munkával szerzett keresménye 50%-ával 
+   4. csekély jelentőségű, mindennapos jogügyletet, amely nem igényel különösebb megfontolást 
+ 
+54. Főszabályként az alábbi jognyilatkozatok közül melyiket teheti meg érvényesen és önállóan a korlátozottan cselekvőképes nagykorú? 
+   1. lemondhat örökségéről  
+   2. megköthet olyan szerződéseket, amelyekkel kizárólag előnyt szerez 
+   3. rendelkezhet ingatlanával 
+   4. rendelkezhet jövedelme egészével 
+ 
+55. Létrehozható-e alapítvány elsődlegesen gazdasági célra? 
+   1. igen, ha az alapítvány közhasznú 
+   2. igen, ha az a cél közcélnak minősül 
+   3. igen, a törvényben taxatíve meghatározott esetekben 
+   4. nem 
+ 
+56. Folytathat-e gazdasági tevékenységet az egyesület? 
+   1. nem, ezt törvény tiltja 
+   2. igen, de nyereségét az egyesület céljaira kell fordítania 
+   3. igen, de nyereségét az egyesület tagjaik között maradéktalanul fel kell osztania 
+   4. csak ha a bíróság engedélyezi számára 
+ 
+57. Mit jelent a hangfelvétel védelméhez való személyhez fűződő jog? 
+   1. a személy hangfelvételét nem szabad nyilvánosságra hozni semmilyen körülmények között 
+   2. a személy hangfelvétele annak engedélye vagy közszereplés kivételével nem hozható nyilvánosságra 
+   3. a személy hangfelvételét csak nevével ellátva lehet nyilvánosságra hozni 
+   4. a személy hangfelvételét nem szabad más neve alatt nyilvánosságra hozni 
+ 
+58. Mi a halál vélelmezett időpontja holttá nyilvánítás esetén, ha a körülmények mérlegelése alapján az nem állapítható meg? 
+   1. az eltűnést követő 15. nap 
+   2. az eltűnést követő nap 
+   3. az eltűnést követő hónap első napja 
+   4. az eltűnést követő hónap 15. napja 
+ 
+59. Megilleti-e a cselekvőképesség a jogi személyeket? 
+   1. igen 
+   2. igen, de csak a jogi személyiséggel felruházott szervezeteket 
+   3. igen, de csak a jogi személyiséggel felruházott szervezeteket és a konstitutív hatályú nyilvántartásba vételt követően 
+   4. nem 
+ 
+60. Hogyan ajándékozhat a korlátozottan cselekvőképes kiskorú? 
+   1. csak a gyámhatóság jóváhagyásával, és így is kizárólag a szokásos mértékig 
+   2. a gyámhatóság jóváhagyása nélkül, de csak a szokásos mértékig  
+   3. a gyámhatóság jóváhagyása nélkül, korlátlanul 
+   4. a gyámhatóság jóváhagyásával, korlátlanul 
+ 
+61. Meghatározhatja-e a Ptk. szerint a gondnokság alá helyezett, hogy ki legyen a gondnoka? 
+   1. igen, közokiratban vagy teljes bizonyító erejű magánokiratban bármikor kijelölheti 
+   2. igen, még cselekvőképes állapotában, közokiratban kijelölheti  
+   3. nem, az ilyen tartalmú jognyilatkozat semmis 
+   4. igen, házastársát, szüleit, vagy más hozzátartozóját bármilyen formában kijelölheti 
+ 
+62. Mikor és hol kell megjelennie a folyóiratban a sajtó-helyreigazításnak, ha a sajtószerv kész azt megjelentetni? 
+   1. az erre irányuló igény kézhezvételét követő 15 napon belül a következő számban 
+   2. az erre irányuló igény kézhezvételét követő 8 napon belül a következő számban 
+   3. az erre irányuló igény kézhezvételét követő 5 napon belül a következő számban 
+   4. az erre irányuló igény kézhezvételét követő első számban 
+ 
+63. A személyhez fűződő jogok megsértésének alábbi szankciói közül melyiknek feltétele a jogsértő magatartás felróhatósága? 
+   1. jogsértés abbahagyása 
+   2. elégtétel adása 
+   3. sérelemdíj 
+   4. jogsértés tényének bírósági megállapítása 
+ 
+64. Mit jelent az, hogy valaki cselekvőképes? 
+   1. jogok és kötelességek alanya lehet 
+   2. képviselőként járhat el más érdekében  
+   3. maga köthet szerződést vagy tehet jognyilatkozatot 
+   4. ingatlanon tulajdonjogot szerezhet 
+ 
+65. Mi jellemzi főszabályként a kiskorú korlátozottan cselekvőképesek jognyilatkozatait? 
+   1. érvényesek egyéb jogi aktus nélkül is 
+   2. érvénytelenek, helyettük gondnokuk tesz jognyilatkozatot 
+   3. érvénytelenek, helyettük törvényes képviselőjük tesz jognyilatkozatot 
+   4. érvényességükhöz a törvényes képviselő hozzájárulása szükséges 
+ 
+66. Hogyan mondhat le a kiskorú jogáról ellenérték nélkül? 
+   1. csak közokiratban 
+   2. csak a törvényes képviselője hozzájárulásával 
+   3. csak a gyámhatóság jóváhagyásával 
+   4. sehogy, ez a jognyilatkozat nem tehető meg érvényesen 
+ 
+67. Főszabályként az alábbi jognyilatkozatok közül melyiket teheti meg érvényesen önállóan a korlátozottan cselekvőképes nagykorú? 
+      1. rendelkezhet jövedelme bíróság által meghatározott hányadával 
+      2. rendelkezhet jövedelme egészével 
+      3. visszautasíthatja az életmentő orvosi ellátást/kezelést 
+      4. lemondhat örökségéről 
+ 
+68. Ki határoz a támogató kirendeléséről a támogatott döntéshozatalról szóló 2013.évi 
+CLV.tv. alapján? 
+      1. a bíróság 
+      2. a gyámhatóság 
+      3. a gondnok 
+      4. a támogatott személy maga 
+ 
+69. Mi az egyesület? 
+      1. azonos közhasznú célokra gyülekező emberek csoportja, amely nem jogi személy 
+      2. alapszabályában meghatározott célra létrehozott, nyilvántartott tagsággal rendelkező jogi személy szervezet 
+      3. önkormányzattal rendelkező, alapszabályában meghatározott célra létrehozott nem jogi személy szervezet 
+      4. önkormányzattal rendelkező, jogszabályban meghatározott célra létrehozott és a Kúria által nyilvántartott jogi személy szervezet 
+ 
+70. Ki és hogyan módosíthatja az alapítvány alapító okiratát? 
+      1. az alapítvány tagjai, szótöbbséggel 
+      2. taxatíve meghatározott esetekben hivatalból a bíróság 
+      3. az alapító, a nyilvántartásba vétel szabályainak megfelelő alkalmazásával 
+      4. senki, az alapítvány alapító okiratát nem lehet módosítani 
+ 
+71. Melyek a személyiségi jogok? 
+      1. a jogi személyek törvényben taxatíve felsorolt jogai 
+      2. a személyeket megillető jogok 
+      3. az Alaptörvényben ezen a címen taxatíve felsorolt jogok 
+      4. a Ptk.-ban ezen a címen taxatíve felsorolt jogok 
+ 
+72. Mit jelent a hangfelvétel védelméhez való személyiségi jog? 
+      1. a személy hangfelvételét nem szabad nyilvánosságra hozni semmilyen körülmények között 
+      2. a személy hangfelvétele annak engedélye vagy közszereplés kivételével nem hozható nyilvánosságra 
+      3. a személy hangfelvételét csak nevével ellátva lehet nyilvánosságra hozni 
+      4. a személy hangfelvételét nem szabad más nevével nyilvánosságra hozni 
+ 
+73. A vallásgyakorlás milyen szervezeti formáját/kereteit NEM ismeri a lelkiismereti és vallásszabadság jogáról, ill. az egyházak jogalanyiságáról szóló 2011.évi CCVI.tv.? 
+      1. bevett egyház 
+      2. történelmi egyház 
+      3. nyilvántartásba vett egyház 
+      4. vallási egyesület 
+ 
+74. Az alábbiak közül melyik házassági akadály fennállta esetén veszti el a személy a házassággal egyébként megszerzett nagykorúságot? 
+   1. a vérrokonság esetén 
+   2. fennálló érvényes házasság esetén 
+   3. cselekvőképesség hiánya esetén 
+   4. örökbefogadás esetén  
+ 
+75. Mikor köteles a (nem közeli hozzátartozó) gondnok a vagyonkezelésről a gyámhatóságnak – főszabály szerint – számot adni? 
+   1. csak a gondnokság alá helyezett kérésére  
+   2. csak a gyámhatóság felhívására 
+   3. évente 
+   4. félévente 
+ 
+76. Miről kell feltétlenül rendelkezni egy egyesület alapszabályában? 
+A) az egyesület nevéről, székhelyéről, céljáról, fő gazdasági (alapcél szerinti) tevékenységéről 
+   2. az egyesület nevéről, székhelyéről, céljáról, szervezetéről 
+   3. az egyesület nevéről, székhelyéről, gazdasági tevékenységéről 
+   4. az egyesület nevéről, nyilvántartási számáról, székhelyéről, céljáról 
+ 
+77. Mi az üzleti titok fogalma? 
+   1. Minden olyan tény/adat/összeállítás, aminek nyilvánosságra kerülése az érintett gazdasági érdekét veszélyeztetné és amelyek titokban tartása érdekében a jogosult a szükséges intézkedéseket megtette. 
+   2. Olyan gazdasági tevékenységhez kapcsolódó, titkos tény/adat/összeállítás, amelyek titokban tartása érdekében a jogosult az adott helyzetben általában elvárható magatartást tanúsítja. 
+   3. Olyan gazdasági tevékenységhez kapcsolódó adat, aminek nyilvánosságra kerülése az érintett gazdasági érdekét veszélyeztetné és amelyek titokban tartása érdekében a jogosult a szükséges intézkedéseket megtette. 
+   4. Olyan gazdasági tevékenységhez kapcsolódó tény, aminek nyilvánosságra kerülése az érintett gazdasági érdekét veszélyeztetné. 
+ 
+78. Melyik NEM a személyiségvédelem objektív eszköze (a személyiségi jogi jogsértés objektív alapú szankciója)? 
+   1. az elégtételadásra kötelezés 
+   2. a kártérítésre kötelezés 
+   3. a jogsértés tényének megállapítása 
+   4. a jogsértés abbahagyására kötelezés 
+ 
+79. Milyen feltételek mellett korlátozottan cselekvőképes a kiskorú? 
+A) csak ha 14. életévét betöltötte, nem cselekvőképtelen, és nem házas 
+   2. csak ha 14. életévét betöltötte és nem cselekvőképes 
+   3. csak ha 18. életévét betöltötte és nem cselekvőképes 
+   4. csak ha 18. életévét betöltötte, nem cselekvőképtelen, és nem házas 
+ 
+80. Mire van szükség a jogi személy bankszámlájával való rendelkezéshez? 
+   1. két képviseleti joggal rendelkező személy aláírására 
+   2. képviselője aláírására 
+   3. alapítója aláírására 
+   4. legfőbb tisztségviselőjének engedélyére 
+ 
+81. Az alábbiak közül milyen névválasztási jog NEM illeti meg a feleséget? 
+   1. saját teljes nevének megtartása a házasságkötés után is 
+   2. házasságkötéskor férje teljes nevének felvétele -né toldattal és a saját teljes neve megtartása 
+   3. a házasság megszűnése után férjezett neve további használata 
+   4. házasságkötéskor férje családnevének felvétele azzal a kikötéssel, hogy közös gyermekeik lánykori családnevét viseljék 
+ 
+82. Kérheti-e a már kinyomtatott könyvek megsemmisítését az, akinek nevét engedélye nélkül azokon felhasználták? 
+   1. nem, csak elégtételt kérhet ezért a jogsértésért 
+   2. nem, csak a szerzői jogdíj rá eső részét kérheti ezért a jogsértésért 
+   3. igen, ezt a Ptk. lehetővé teszi 
+   4. nem, ehelyett kártérítést kérhet ezért a jogsértésért 
+ 
+83. Ki és milyen alapon állapítja meg a halál tényét eltűnt személy esetén? 
+   1. a közjegyző, az eltűnés körülményei alapján 
+   2. a jegyző, a törvényben meghatározott vélelem alapján 
+   3. a bíróság, a körülmények mérlegelése alapján 
+   4. az illetékes rendőrség, a törvényben meghatározott vélelem alapján 
+ 
+84. Mikor cselekvőképtelen az alábbiak közül a nagykorú? 
+   1. ha elmegyógyintézetben kezelés alatt áll 
+   2. ha szerzetesi fogadalmat tett 
+   3. ha belátási képessége teljes mértékben hiányzik 
+   4. ha belátási képessége visszatérően erősen csökkent 
+ 
+85. Ki a cselekvőképes? 
+   1. akinek cselekvőképességét a Ptk. vagy a bíróság nem korlátozza vagy nem zárja ki 
+   2. aki a Ptk.-ban taxatíve meghatározott követelményeknek eleget tesz 
+   3. akinek szerzőképessége van 
+   4. aki más törvényes képviselője lehet 
+ 
+86. Rendelkezhet-e jövedelmével a korlátozottan cselekvőképes kiskorú személy? 
+   1. igen, annak 50%-a erejéig 
+   2. nem, azt a gondnoka fekteti be az ő érdekeit figyelembe véve 
+   3. igen, korlátozás nélkül 
+   4. igen, a törvényes képviselő hozzájárulásával 
+ 
+87. Mit jelent a relatív semmisség a cselekvőképesség körében? 
+   1. a semmisségre csak a korlátozottan cselekvőképes vagy cselekvőképtelen érdekében lehet hivatkozni 
+   2. a semmisségre csak jóhiszemű 3. személy hivatkozhat 
+   3. a semmisség csak arra a jogügyletre áll fenn, amelyben a cselekvőképességet illetően megtévesztés történt 
+   4. a semmisség csak a rosszhiszemű 3. személlyel szemben áll fenn 
+ 
+88. Mikor helyezheti a bíróság a nagykorút cselekvőképességet teljesen korlátozó gondnokság alá? 
+   1. ha belátási képessége tartósan és teljeskörűen hiányzik 
+   2. ha belátási képessége tartósan vagy időszakonként visszatérően nagymértékben csökkent 
+   3. ha belátási képessége tartósan korlátozott 
+   4. ha akaratnyilvánításra képtelen állapotban van 
+ 
+89. Kinek a jognyilatkozata lesz érvényes a támogatott döntéshozatalról szóló 2013.évi 
+CLV.tv. alapján, ha a támogató és a támogatott álláspontja ellentétes egymással? 
+   5. a támogató nyilatkozata 
+   6. a támogatott nyilatkozata 
+   7. az ellentétes jognyilatkozatok érvényességéről a gyámhatóság dönt 
+   8. az ellentétes jognyilatkozatok érbényességéről a bíróság dönt 
+ 
+90. Hogyan jön létre az egyesület? 
+   1. az alapító okirat aláírásával 
+   2. az alapító okirat ügyvéd általi ellenjegyzésével 
+   3. az alapító okirat bírósági letétbe helyezésével 
+   4. a bírósági nyilvántartásba vétellel 
+ 
+91. Kitől származik a magánjog meghatározásaként híressé vált következő idézet: „Herzkammer allen Rechts” ☺? 
+   1. Lábady Tamás 
+   2. Thomas Labady 
+   3. Semmelweis Ignác 
+   4. Én CSAK FRANCIÁUL tudok! 
+ 
+92. Mikor szűnik meg az alapítvány? 
+A) ha az alapítvány egyesületté alakul át 
+   2. ha az alapítvány három éven át nem folytatja tevékenységét 
+   3. ha az alapítói jogokat gyakorló személy meghal 
+   4. ha az alapítói jogokat gyakorló személy erről a kuratóriumot értesíti 
+ 
+93. Kit illetnek meg a személyhez fűződő jogok? 
+   1. minden személyt, a jogi személyt is, ha a jog jellegénél fogva nem csak természetes személyt illet  
+   2. csak a természetes személyeket 
+   3. a jogi személyeket is megilletik a törvényben számukra taxatíve felsorolt személyhez fűződő jogok 
+   4. csak a jogi személyeket 
+ 
+94. Megilletheti-e a névvédelem joga a jogi személyt? 
+   1. nem, a névvédelem joga természeténél fogva csak a természetes személyt illetheti meg 
+   2. igen, de csak más, hasonló működési körű, azonos területen működő jogi személlyel szemben 
+   3. nem, a névvédelem joga törvényi rendelkezésnél fogva csak a természetes személyt illetheti meg 
+   4. igen, minden jogalannyal szemben 
+ 
+95. Melyik vallási közösség NEM rendelkezik jogi személyiséggel a lelkiismereti és vallásszabadság jogáról, ill. az egyházak jogalanyiságáról szóló 2011.évi CCVI.tv. alapján? 
+   1. bevett egyház 
+   2. történelmi egyház 
+   3. nyilvántartásba vett egyház 
+   4. vallási egyesület 
+ 
+96. Mikor ítélhet meg a bíróság közérdekű célra fordítható bírságot személyhez fűződő jog megsértésekor? 
+   1. nincs erre lehetősége 
+   2. ha a sérelmet szenvedett fél kifejezetten ezt kérte 
+   3. ha a kártérítés címén megítélhető összeg nem áll arányban a felróható magatartás súlyosságával  
+   4. ha a jogsértés nem volt felróható, vagy a jogsértéssel érintett személy is közrehatott a jogsértésben 
+ 
+97. A halál megállapításának mely feltételét pótolja/váltja ki a halál tényének bírói megállapítására irányuló eljárásban hozott bírósági határozat? 
+   1. az eltűnéstől számított 5 év várakozási időt 
+   2. a holttest meglétét 
+   3. a halotti anyakönyvi kivonat meglétét 
+   4. az eltűnt személy temetési szertartásának megrendezését 
+ 
+98. Aki cselekvőképességét illetően a másik felet megtéveszti, ezért… 
+   1. büntetőjogi felelősségre vonható 
+   2. felelősséggel tartozik, és felelőssége alapján a szerződés teljesítésére is kötelezhető 
+   3. felelősséggel tartozik, és rosszhiszeműség esetén kártérítésre köteles 
+   4. köteles a szerződés érvényességéhez szükséges engedélyek beszerzésére 
+ 
+99. Milyen esetben lehet cselekvőképtelen az a nagykorú, aki olyan állapotban van, hogy belátási képessége tartósan vagy a jognyilatkozatkor átmenetileg teljesen hiányzik? 
+   1. csak ha a gyámhatóság kezdeményezi a gondnokság alá helyezését 
+   2. semmilyen esetben, ugyanis korlátozottan cselekvőképes lehet csak 
+   3. csak jogerős bírósági határozat meghozatala esetén 
+   4. ipso iure, az állapota folytán 
+ 
+100. Mikor jön létre a korlátolt felelősségű társaság? 
+   1. a társasági szerződés aláírásával 
+   2. a társasági szerződés ügyvéd általi ellenjegyzésével 
+   3. a társasági szerződés bírósági letétbe helyezésével 
+   4. a cégjegyzékbe való bejegyzéssel, annak napján 
+ 
+101. Mikor szabad az eltűnt személyről készült képmást vagy hangfelvételt nyilvánosságra hozni? 
+   1. semmilyen körülmények között nem szabad, mert nem tudja megadni rá az engedélyt  
+   2. nyomós közérdekből, vagy ha a képviselője ehhez az engedélyét adta 
+   3. hatósági engedéllyel, nyomós közérdekből vagy méltánylást érdemlő magánérdekből  
+   4. bármikor nyomós közérdekből, vagy méltánylást érdemlő magánérdekből 
+ 
+102. Milyen alábbi esetben jogosult a személyhez fűződő jogok érvényesítésére az ügyész? 
+   1. a korlátozottan cselekvőképes személy jogainak védelmében 
+   2. a cselekvőképtelen személy jogainak védelmében 
+   3. ha a cselekvőképtelen személy jogait a törvényes képviselője sértette meg 
+   4. ha az elhunyt személy jó hírnévhez való jogának megsértése közérdekbe ütközik 
+ 
+103. Ha a holtnak nyilvánított előkerül, a holttá nyilvánító határozat… 
+   1. hatályos és érvényes 
+   2. hatályos és érvénytelen 
+   3. érvényes és hatálytalan 
+   4. érvénytelen és hatálytalan 
+ 
+104. Lehet-e 14. életévét betöltött kiskorú cselekvőképtelen? 
+   1. nem, mert már korlátozottan cselekvőképes 
+   2. nem, mert már cselekvőképes 
+   3. igen, ha ilyen hatályú gondnokság alá helyezik, vagy enélkül is, ha a belátási képessége tartósan vagy átmenetileg teljesen hiányzik 
+   4. igen, ha belátási képessége tartósan, vagy időszakonként visszatérően nagymértékben csökken 
+ 
+105. Milyen alapon járhat el a gondnok a korlátozottan cselekvőképes nagykorú nevében az alábbiak közül? 
+   1. bírósági határozat alapján 
+   2. a gondnokolt által közokiratban kiállított meghatalmazás alapján 
+   3. csak kivételesen teheti meg, általában a gondnokolt önállóan jár el 
+   4. a gondnokolt által egyszerű okiratban kiállított meghatalmazás alapján 
+ 
+106. Ki rendeli ki az eseti gondnokot? 
+   1. a gyámhatóság 
+   2. az állandó gondnok 
+   3. a bíróság 
+   4. a gyám 
+ 
+107. Mit kell meghatározni főszabály szerint a jogi személyt létrehozó okiratban, jogszabályban illetve határozatban? 
+   1. a jogi személy nevét, székhelyét, tevékenységét, tagjainknak nevét, képviselője nevét 
+   2. a jogi személy nevét, székhelyét, nyilvántartási számát, tagjainak számát 
+   3. a jogi személy nevét, tevékenységét, székhelyét, képviselője nevét 
+   4. a jogi személy nevét, székhelyét, szervezeti egységeinek nevét, létrehozatala célját 
+ 
+108. Melyek a jogi személyiségű gazdasági társaságok? 
+   1. minden gazdasági társaság jogi személy 
+   2. csak az állam által alapítottak 
+   3. a korlátolt felelősségű társaság, a betéti társaság és a részvénytársaság  
+   4. a korlátolt felelősségű társaság, a közös vállalat és a részvénytársaság 
+
+
+109. Lehet-e akadálya, hogy valaki tudományos vagy művészi tevékenységet a saját nevén folytasson? 
+   1. nem, a névviseléshez való jog ezt minden körülmények között lehetővé teszi 
+   2. igen, ha más, hasonló területen már korábban tevékenykedő, vele azonos nevű személy ezt kéri 
+   3. igen, a Ptk. ezt a törvény erejénél fogva tiltja 
+   4. nem, hacsak nem történelmi névről van szó 
+ 
+110. Embernek minősül-e a méhmagzat az Alkotmánybíróság ún. „második abortusz döntése” alapján? (jogalanynak jogalany)
+   1. igen, minden esetben 
+   2. igen, ha élve születik, akkor születésétől kezdődően 
+   3. igen, de csak vagyoni jellegű jogviszonyokban 
+   4. nem 
+ 
+111. Mi a feltétele az alábbiak közül az eltűnt személy holttá nyilvánításának? 
+   1. a halál ténye kétségen kívüli bizonyítást nyerjen 
+   2. legalább 5 éven át ne legyen ismeretes az eltűnt személy életben létére utaló adat 
+   3. az érintett személy veszélyhelyzetben tűnjön el 
+   4. legalább 10 éven át ne legyen ismeretes az eltűnt személy életben létére utaló adat 
+ 
+112. Főszabályként az alábbi jognyilatkozatok közül melyiket teheti meg érvényesen és önállóan a korlátozottan cselekvőképes nagykorú? 
+   1. rendelkezhet jövedelme bírósg által meghatározott hányadával 
+   2. rendelkezhet jövedelme egészével 
+   3. rendelkezhet ingatlanával 
+   4. lemondhat örökségéről 
+ 
+113. Ki hozhat létre alapítványt? 
+   1. csak az állam 
+   2. csak természetes személyek 
+   3. természetes személy és jogi személy 
+   4. csak az állam és a természetes személyek 
+ 
+114. Mi korlátozhatja a cselekvőképességet? 
+   1. az Alaptörvény 
+   2. bármely törvény 
+   3. két egybehangzó jognyilatkozat 
+   4. a Ptk. 
+ 
+115. Visszautasíthatja-e a törvényes képviselő a korlátozottan cselekvőképes kiskorúnak adott vagy ígért, teherrel nem járó ajándékot? 
+   1. igen, de csak a kiskorúval egyetértésben 
+   2. igen, de csak a gyámhatóság engedélyével 
+   3. igen, ha a gyámhatóság kifejezetten nem tiltakozik ez ellen 
+   4. nem, azt a kiskorú saját jognyilatkozatával fogadja el 
+ 
+116. Nagykorú         személy         cselekvőképessége         jövőbeli         korlátozására         vonatkozó jognyilatkozata… 
+   1. semmis 
+   2. csak bíróság előtt tehető érvényesen 
+   3. közokiratban, ügyvéd által ellenjegyzett magánokiratban, vagy a gyámhatóság előtt személyesen tett jognyilatkozatban lehet érvényes 
+   4. relatíve semmis 
+ 
+117. Az alábbi jognyilatkozatok közül melyik érvényességéhez szükséges a gyámhatóság hozzájárulása? 
+   1. a cselekvőképtelen nagykorú ingatlanának átruházására irányuló jognyilatkozat 
+   2. a cselekvőképességében teljesen korlátozott nagykorú jövedelmével való rendelkezés 
+   3. a cselekvőképessgében részlegesen korlátozott nagykorú jövedelmével való rendelkezés 
+   4. a korlátozottan cselekvőképes kiskorú jövedelmével való rendelkezés 
+ 
+118. Ki és milyen időközönként vizsgálja felül a támogató kirendelését a támogatott döntéshozatalról szóló 2013.évi CLV.tv. alapján? 
+   1. a gyámhatóság évente 
+   2. a gyámhatóság ötévente 
+   3. a bíróság 5 évente 
+   4. csak a gondnokrendelés felülvizsgálatáról rendelkezik a jog, de a támogató kirendeléséről nem 
+ 
+119. Lehet-e jogi személy egyesület tagja? 
+   1. nem, ezt a Ptk. is kimondja 
+   2. igen, de csak másik egyesület 
+   3. igen, de csak másik egyesület vagy alapítvány 
+   4. igen, korlátozás nélkül 
+ 
+120. Mi hozza létre az alapítványt? 
+   1. az alapító okirat aláírása (ex nunc hatállyal) 
+   2. az alapító okirat aláírása (ex tunc hatállyal) 
+   3. az alapító okirat bírósági letétbe helyezése 
+   4. a bírósági nyilvántartásba vétel 
+ 
+121. A személyiségi jogokat korlátozhatja-e szerződés vagy egyoldalú jognyilatkozat? 
+   1. nem, az ilyen jognyilatkozat semmis 
+   2. igen, de csak közokiratba foglalva 
+   3. igen, a jogosult/érinett társadalmi érdeket nem sértő beleegyezése/hozzájárulása esetén 
+   4. nem, csak törvényben lehet ezeket korlátozni 
+ 
+122. Megilleti-e a jogi személyt a magánlakáshoz való jog polgári jogi védelme? 
+   1. nem, ez a jog természeténél fogva csak a természetes személyt illetheti meg 
+   2. nem, a törvény kizárja a jogi személy részére a magánlakáshoz való jogot 
+   3. igen, a Ptk. alapján a védelem a jogi személy céljaira szolgáló helyiségekre is áll 
+   4. igen, az Üzleti titokról szóló tv. alapján a védelem a jogi személy céljaira szolgáló helyiségekre is áll 
+ 
+123. Melyik szervezet látja el az állam képviseltében a vallási közösségek felügyeletét a lelkiismereti és vallásszabadság jogáról, ill. az egyházak jogalanyiságáról szóló 2011.évi CCVI.tv. alapján? 
+   1. Egyházügyi Hivatal 
+   2. Alkotmánybíróság 
+   3. Fővárosi Törvényszék 
+   4. az állam nem működtethet ilyen szervezetet 
+ 
+124. Milyen polgári jogi igénye lehet annak, akiről a sajtó valótlan hírt közöl, híresztelt, valós tényt hamis színben tüntet fel? 
+   1. helyreigazítási kérelemmel léphet fel, ami más igényeket kizár 
+   2. a sajtóorgánum betiltását követelheti 
+   3. a törvényben biztosított egyéb igényein kívül helyreigazítást követelhet 
+   4. más sajtóorgánumban elmondhatja a saját véleményét 
+ 
+125. Mire vonatkozik az üzleti titok polgári jogi védelme? 
+   1. kizárólag a megszerzett titok engedély nélküli nyilvánosságra hozatalára 
+   2. a megszerzett titokkal való bármilyen visszaélésre 
+   3. csak a megszerzett titokkal való nyilvánosság előtti visszaélésre 
+   4. csak a megszerzett titoknak a sajtóhoz való eljuttatására 
+ 
+126. Mit határoz meg a Ptk. a cselekvőképesség feltételeként? 
+   1. szerzőképességet 
+   2. belátási képességet 
+   3. vétőképességet 
+   4. akarati képességet 
+ 
+127. Hogyan jön létre az egyesület? 
+   1. az alapító okirat aláírásával 
+   2. az alapító okirat ügyvéd általi ellenjegyzésével 
+   3. a cégjegyzékbe történő bejegyzéssel 
+   4. a bírósági nyilvántartásba vétellel 
+ 
+128. Mi az alapítvány? 
+   1. alapszabályában meghatározott célra létrehozott, önkormányzattal és nyilvántartott tagsággal rendelkező szervezet 
+   2. alapító okirattal létrehozott jogi személyiségű gazdálkodó szervezet 
+   3. önkormányzattal és nyilvántartott tagsággal rendelkező szervezet, amelynek létrehozatalát törvény rendeli el 
+   4. tartós közérdekű célra létrehozott jogi személy, hozzá rendelt célvagyonnal 
+ 
+129. Mi történik a személy személyiségi jogaival a halála után? 
+   1. megszűnnek, mivel a személy jogképessége megszűnt 
+   2. a hozzátartozók és örökösök kegyeleti jogává alakulnak 
+   3. változatlan formában és módon tovább élnek 
+   4. csak azok élnek tovább, amelyek védelmében már eljárás indult 
+ 
+130. Mi a fogamzási időszak kezdete a Ptk. vélelme szerint? 
+   1. a születéstől visszafelé számított 300. nap 
+   2. a születéstől visszafelé számított 300. és 180. nap közötti időtartam bármely napja 
+   3. a születéstől visszafelé számított 300. és 182. nap közötti időtartam bármely napja 
+   4. a születéstől visszafelé számított 182. nap 
+ 
+131. Mit jelent az, hogy valaki cselekvőképes? 
+         jogok és kötelességek alanya lehet 
+         képviselőként járhat el mindenki más érdekében 
+        maga köthet szerződést, és tehet jognyilatkozatot 
+         D) ingatlanon tulajdonjogot szerezhet 
+ 
+132. Milyen ügycsoportok tekintetében lehet egy nagykorú személyt cselekvőképességet korlátozó gondnokság alá helyezni? 
+   1. csak teljes hatállyal, minden jognyilatkozat tekintetében 
+   2. csak a törvényben taxatíve felsorolt ügycsoportok tekintetében 
+   3. a bírsóság által meghatározott ügycsoportokban 
+   4. teljes hatállyal, vagy egyes, taxatíve nem szabályozott ügycsoportok tekintetében 
+ 
+133. Ki és hogyan módosíthatja az alapítvány alapító okiratát? 
+   1. az alapítvány tagjai, szótöbbséggel 
+   2. taxatíve meghatározott esetekben hivatalból a bíróság 
+   3. az alapító, a nyilvántartásba vétel szabályainak megfelelő alkalmazásával          
+   4. senki, az alapítvány alapító okiratát nem lehet módosítani 
+ 
+134. Ki a cselekvőképes? 
+   1. akinek cselekvőképességét a Ptk. nem korlátozza vagy nem zárja ki 
+   2. aki a Ptk.-ban taxatíve meghatározott követelményeknek eleget tesz 
+   3. akinek szerzőképessége van 
+   4. aki más törvényes képviselője lehet 
+ 
+135. Mikor kell a cselekvőképességet kizáró gondnokság alá helyező határozatot felülvizsgálni? 
+   1. minden évben 
+   2. legkésőbb a határozat jogerőre emelkedését követő 10 éven belül 
+   3. ha a gondnokolt állapota láthatóan megváltozik, egyébként nincs megszabott határidő
+   4. legkésőbb a határozat jogerőre emelkedését követő 3 éven belül 
+ 
+136. Az 1990. évi IV. törvény alapján ki hozhat létre nyilvántartásba vett egyházat? 2011. évi CCVI. tv. 
+   1. 10 természetes személy 
+   2. 100 természetes személy 
+   3. 100 alapító tag 
+   4. 1.000 természetes személy 
+ 
+137. Ki a kommentátor iskola legjelesebb képviselője☺? 
+A) Friderikusz Sándor 
+   2. Palik László 
+   3. Héder Barna 
+   4. Balázs 
+ 
+138. Hogyan mondhat le a kiskorú valamely jogáról, ellenérték nélkül? 
+   1. csak közokiratban 
+   2. csak a törvényes képviselője beleegyezésével vagy jóváhagyásával 
+   3. csak a gyámhatóság jóváhagyásával 
+   4. sehogy, ez a jognyilatkozat nem tehető meg érvényesen 
+ 
+139. Az alábbi jognyilatkozatok közül melyik érvényességéhez szükséges a gyámhatóság hozzájárulása? 
+   1. a cselekvőképtelen nagykorú ingatlanának átruházására irányuló jognyilatkozat 
+   2. a cselekvőképtelen nagykorú fizetésével való rendelkezés 
+   3. a korlátozottan cselekvőképes nagykorú fizetésével való rendelkezés 
+   4. a korlátozottan cselekvőképes kiskorú fizetésével való rendelkezés 
+ 
+140. Mikor jön létre a részvénytársaság? 
+   1. az alapító okirat aláírásával 
+   2. az alapító okirat ügyvéd általi ellenjegyzésével 
+   3. az alapító okirat bírósági letétbe helyezésével 
+   4. a cégjegyzékbe való bejegyzéssel, annak napján 
+ 
+141. Ki veszi nyilvántartásba az alapítványt? 
+   1. a székhelye szerinti törvényszék 
+   2. az OBH 
+   3. a Fővárosi Törvényszék, az alapítvány székhelyére tekintet nélkül 
+   4. a Kúria 
+ 
+142. Hogyan hat a házassággal megszerzett nagykorúságra a házasság érvénytelensége? 
+   1. sehogy, a személy nagykorú marad 
+   2. a személy ismét kiskorú lesz 
+   3. a személy a törvényben meghatározott érvénytelenségi esetekben marad csak nagykorú 
+   4. a személy a törvényben meghatározott érvénytelenségi esetekben ismét kiskorú lesz 
+ 
+143. Ki mondhat le és hogyan a kiskorút megillető tartásról? 
+   1. senki, kiskorút megillető tartásról érvényesen nem lehet lemondani 
+   2. a törvényes képviselője, a gyámhatóság hozzájárulásával 
+   3. a törvényes képviselője, a kiskorú egyetértésével 
+   4. a kiskorú maga, mert ez egy személyesen teendő jognyilatkozat 
+ 
+144. Mikor kell a cselekvőképességet részlegesen korlátozó gondnokság alá helyező határozatot felülvizsgálni? 
+   1. minden évben 
+   2. legkésőbb a határozat jogerőre emelkedését követő 5 éven belül 
+   3. ha a gondnokolt állapota változik, amúgy nincs megszabott határidő 
+   4. legkésőbb a határozat jogerőre emelkedését követő 3 éven belül 
+ 
+145. Milyen esetben lehet cselekvőképtelen az a nagykorú, aki olyan állapotban van, hogy belátási képessége átmenetileg teljesen hiányzik? 
+   1. ha gyámhatóság kezdeményezi a gondnokság alá helyezését 
+   2. semmilyen esetben, ugyanis a fokozatosság alapján ilyenkor csak korlátozottan cselekvőképes lehet 
+   3. ha bíróság azt jogerős határozatában kimondja 
+   4. ipso iure, az állapota folytán 
+ 
+146. Ki rendeli ki a hivatalos támogatót a támogatott döntéshozatalról szóló 2013.évi 
+CLV.tv. alapján? 
+   5. a gyámhatóság 
+   6. a bíróság 
+   7. az ügyészség 
+   8. csak a hivatalos gondnok kirendeléséről rendelkezik a jog, de hivatalos támogató kirendeléséről nem 
+ 
+147. Mi az alapítvány? 
+   1. alapszabállyal létrehozott jogi személy 
+   2. alapszabállyal létrehozott jogi személyiségű gazdálkodó szervezet 
+   3. önkormányzattal és nyilvántartott tagsággal rendelkező szervezet, amelynek létrehozatalát törvény rendeli el 
+   4. tartós célra létrehozott jogi személy, hozzá rendelt célvagyonnal 
+ 
+148. Ki felel az egyesület tartozásaiért? 
+   1. az egyesület a vagyonával, a tagoknak csak mögöttes felelőssége van a vagyonukkal 
+   2. az egyesület a vagyonával, a tagok nem felelnek a vagyonukkal 
+   3. az tagok vagyonukkal felelnek 
+   4. az egyesület a vagyonával, mögöttesen a vezető tisztségviselők felelnek teljes vagyonukkal 
+ 
+149. Mit jelent a Ptk. szerint különösen a jó hírnév törvényi védelme? 
+   1. másról nem szabad valótlan, sértő tényt állítani, híresztelni, valós tényt hamis színben feltüntetni 
+   2. nem szabad más nevét jogtalanul használni, vagy jogtalanul máséhoz hasonló nevet használni 
+   3. nem szabad másról a sajtó nyilvánossága előtt annak engedélye nélkül nyilatkozni 
+   4. nem szabad más nevében valótlan, sértő tényt állítani valakiről, valós tényt hamis színben 
+feltüntetni 
+ 
+150. Kérheti-e a már kinyomtatott könyvek megsemmisítését az, akinek nevét engedélye nélkül azokon felhasználták? 
+   1. nem, csak elégtételt kérhet ezért a jogsértésért 
+   2. nem, csak a szerzői jogdíj rá eső részét kérheti ezért a jogsértésért 
+   3. igen, ezt a Ptk. lehetővé teszi 
+   4. nem, csak kártérítést kérhet ezért a jogsértésért 
+ 
+151. Ki veszi nyilvántartásba a jogi személyiséggel rendelkező vallási közösségeket az állam nevében eljárva a lelkiismereti és vallásszabadság jogáról, ill. az egyházak jogalanyiságáról szóló 2011.évi CCVI.tv. alapján? 
+   1. Egyházügyi Hivatal 
+   2. Alkotmánybíróság 
+   3. Fővárosi Törvényszék 
+   4. az állam nem vezethet ilyen nyilvántartást 
+ 
+152. Mit jelent a névkizárólagosság elve? 
+   1. két jogalany nem viselhet ugyanolyan nevet 
+   2. két természetes személynek nem lehet egyforma neve 
+   3. két hasonló működési körű jogi személy nem viselhet azonos nevet 
+   4. a jogi személy nevének különböznie kell minden természetes személy nevétől 
+ 
+153. A         személyhez         fűződő         jogokat         korlátozhatja-e         szerződés         vagy         egyoldalú jognyilatkozat? 
+   1. nem, az ilyen jognyilatkozat semmis 
+   2. igen, de csak közokiratba foglalva 
+   3. igen, a jogosult társadalmi érdeket nem sértő beleegyezése 
+   4. nem, csak törvényben lehet ezeket korlátozni 
+ 
+154. Visszautasíthatja-e a törvényes képviselő a korlátozottan cselekvőképes kiskorúnak adott vagy ígért, teherrel nem járó ajándékot? 
+   1. igen, de csak a kiskorúval egyetértésben 
+   2. igen, de csak a gyámhatóság engedélyével 
+   3. igen, ha a gyámhatóság kifejezetten nem tiltakozik ez ellen 
+   4. nem, azt a kiskorú saját jognyilatkozatával fogadja el 
+ 
+155. Főszabályként az alábbi jognyilatkozatok közül melyiket teheti meg érvényesen és önállóan a korlátozottan cselekvőképes nagykorú? 
+   1. szerződést köthet (csak előnyös, vagy kis relevanciájú)
+   2. rendelkezhet jövedelme egészével 
+   3. házasságot köthet 
+   4. lemondhat örökségéről 
+ 
+156. Kirendelhető-e a Ptk. szerint a gondnokolt részére egyszerre több gondnok? 
+   1. nem, mivel az döntésképtelen állapotokhoz vezethetne 
+   2. igen, ha ügyeinek intézése külön szakértelmet kíván 
+   3. igen, ha hozzátartozói között több alkalmas személy is van 
+   4. igen, ha a gondnokolt érdekében áll ellenkező véleményeket is meghallgatni 
+ 
+157. Mit jelent a relatív semmisség a cselekvőképesség körében? 
+   1. a semmisségre csak a korlátozottan cselekvőképes vagy cselekvőképtelen személy érdekében lehet hivatkozni 
+   2. a semmisségre csak jóhiszemű 3. személy hivatkozhat 
+   3. a semmisség csak arra a jogügyletre áll fenn, amelyben a cselekvőképességet illetően megtévesztés történt 
+   4. a semmisség csak a rosszhiszemű 3. személlyel szemben áll fenn 
+ 
+158. Melyik NEM részvényfajta? 
+   1. visszaváltható részvény 
+   2. osztalékelsőbbségi részvény 
+   3. dolgozói részvény 
+   4. törzsrészvény 
+ 
+159. Ügydöntő felügyelőbizottság…  
+   1. a munkavállalók részvételével működik 
+   2. létrehozatala a nyilvánosan működő részvénytársaságnál kötelező 
+   3. a legfőbb szerv vagy az ügyvezetés hatáskörébe tartozó döntéseket hozhat 
+   4. a társaság céljainak elérése szempontjából létfontosságú kérdésben felülbírálhatja az ügyvezetés által meghozott döntést. 
+ 
+160. A munkavállalói részvétel azt jelenti, hogy az éves átlagban kétszáz főnél több teljes állású munkavállalót foglalkoztató cégeknél 
+   1. kötelező ügydöntő felügyelőbizottság létrehozása 
+   2. az igazgatóságba három főt delegálhat az üzemi tanács 
+   3. az üzemi tanács megvétózhatja a munkavállalók kirívó érdeksérelmét eredményező döntéseket 
+   4. a felügyelőbizottság egyharmada munkavállalói küldöttekből áll  
+ 
+161. Kiskorú személy 
+   1. nem lehet betéti társaság kültagja 
+   2. nem lehet sem beltag, sem közkereseti társaság tagja 
+   3. beltag lehet, de kft-ben ügyvezetést nem vállalhat 
+   4. nem szerezhet üzletrészt kft-ben 
+ 
+162. A tag kizárható a társaságból 
+   1. bírósági ítélettel, a társaság céljai elérésének nagymértékű veszélyeztetése miatt 
+   2. a legfőbb szerv kétharmados többséggel meghozott határozatával 
+   3. ha rendszeresen és igazolatlanul távol marad a legfőbb szerv üléseitől 
+   4. ha a többi taggal szemben kialakult személyes konfliktusa miatt lehetetlenné válik vele az együttműködés 
+ 
+163. Melyik megnevezés vonatkozik részvényosztályra? 
+   1. ideiglenes részvény 
+   2. elővásárlási jogot biztosító részvény 
+   3. dolgozói részvény 
+   4. visszaváltható részvény 
+ 
+164. Mi az a felmentvény? 
+   1. a legfőbb szervnek a vezető tisztségviselőt a felelősség alól mentesítő határozata 
+   2. a legfőbb szervnek a vezető tisztségviselő tisztségét megszüntető határozata 
+   3. a felügyelőbizottság által kiadott igazolás, hogy a felelős társaságirányítási jelentés megfelelt a jogszabályoknak 
+   4. a könyvvizsgáló igazolása az éves számviteli beszámoló megfelelőségéről 
+ 
+165. Közkereseti társaság ügyvezetője 
+   1. a társasági szerződés felhatalmazása alapján a kültag is lehet 
+   2. csak a másik ügyvezetővel együttesen rendelkezhet a társaság bankszámlája felett  
+   3. csak a másik ügyvezetővel együttesen jogosult a legfőbb szerv összehívására D) tiltakozhat a másik ügyvezető intézkedése ellen 
+ 
+166. Mit jelent az elsőbbségi jog a kft-re vonatkozó szabályok körében? 
+   1. Az üzletrész megszerzésére a többi tag, a társaság vagy a társaság által kijelölt személy másokat megelőzően jogosult.   
+   2. Annak kikötése a társasági szerződésben, hogy valamely tag a törzsbetétének arányát meghaladó mértékű szavazattal rendelkezik. 
+   3. A kft. tagjai az üzletrész árverés útján történő értékesítése során a kívülállókat megelőzően tehetnek vételi ajánlatot. 
+   4. A vagyoni hozzájárulás szolgáltatásával megvalósuló tőkeemelésben minden tag a törzsbetéte arányában részt vehet. 
+ 
+167. Melyik NEM pénzügyi szolgáltatás? 
+   1. értékpapírszámla vezetése 
+   2. elektronikus pénz kibocsátása 
+   3. betét gyűjtése 
+   4. kezesség és garancia vállalása 
+ 
+168. Melyik kijelentés igaz a fogyasztó és vállalkozás között megkötött szerződésre? 
+   1. A vállalkozást a főkötelezettsége teljesítéséért járó ellenszolgáltatáson felül további pénzbeli követelésre jogosító feltétel az ÁSZF aláírásával a szerződés részévé válik. 
+   2. A feltűnő értékaránytalanságra alapított megtámadási jogot a felek kizárhatják 
+   3. Részbeni érvénytelenség esetén sem dől meg az egész szerződés, ha az az érvénytelen rész nélkül is teljesíthető 
+   4. Érvényesen csak írásban jöhet létre 
+ 
+169. Mennyi időn belül évül el fogyasztó és vállalkozás közötti szerződés esetén a fogyasztó kellékszavatossági igénye? 
+   1. A megkötés időpontjától számított hat hónap 
+   2. A megkötés időpontjától számított két év 
+   3. A teljesítés időpontjától számított hat hónap 
+   4. A teljesítés időpontjától számított két év 
+ 
+170. Ki képviseli a korlátolt felelősségű társaságot harmadik személlyel szemben és a bíróság előtt? 
+   1. az ügyvezető 
+   2. az igazgató 
+   3. a vezérigazgató 
+   4. az igazgatóság tagjai 
+ 
+171. Az egyesülési jogról szóló törvény alapján ki alapíthat egyesületet? 
+   1. legalább 1000 természetes személy 
+   2. legalább 100 alapító tag 
+   3. legalább 20 természetes személy 
+   4. legalább 10 alapító tag 
+ 
+172. Mit kell tartalmaznia a sajtóban megjelenő helyreigazításnak? 
+   1. kizárólag a valós tényeket 
+   2. utalást arra, hogy a sérelmesnek tartott közléssel érintett személy a közlés ellen 
+tiltakozott 
+   3. mely tényállítás valótlan vagy hamis színben feltüntetett, illetve melyek a valós tények          
+   4. a sérelmesnek tartott közléssel érintett személy tiltakozását és véleményét 
+ 
+173. Ki mondhat le és hogyan a kiskorút megillető tartásról? 
+   1. senki, a kiskorút megillető tartásról érvényesen nem lehet lemondani 
+   2. a törvényes képviselője, a gyámhatóság hozzájárulásával 
+   3. a törvényes képviselője, a kiskorú egyetértésével 
+   4. a kiskorú maga, mert ez egy személyesen teendő jognyilatkozat 
+ 
+174. Ki a zárgondnok? 
+   1. a fedezetként lefoglalt vagyon kezelője 
+   2. a büntetőügyben lefoglalt vagyon kezelője 
+   3. a cselekvőképességet érintő gondnokság alatt álló személy vagyonának kezelője 
+   4. a cselekvőképességet érintő gondnokság alá helyezési per alá vont személy vagyonához kirendelt vagyonkezelő 
+ 
+175. Mi a köztestület? 
+   1. közhatalmi szerv irányító testülete 
+   2. önkormányzattal és nyilvántartott tagsággal rendelkező szervezet, amelynek létrehozatalát törvény rendeli el 
+   3. taxatíve meghatározott közcélokra létrejött, törvény által alapított testület 
+   4. helyi önkormányzat döntéshozó szerve 
+ 
+176. Ki gyakorol törvényességi felügyeletet az egyesületek felett? 
+   1. az ügyész 
+   2. a bíróság 
+   3. az alapító 
+   4. nincs felettük törvényességi felügyelet 
+ 
+177. Ki járhat el a korlátozottan cselekvőképes személy személyhez fűződő jogainak védelmében? 
+   1. csak a korlátozottan cselekvőképes személy törvényes képviselője 
+   2. csak a korlátozottan cselekvőképes személy maga 
+   3. csak a gyámhatóság által kirendel eseti gondnok 
+   4. a korlátozottan cselekvőképes személy maga vagy törvényes képviselője 
+ 
+178. Az alábbi nyilatkozatok közül melyik korlátozza érvényesen a jogképességet? 
+   1. szerzetesi fogadalom 
+   2. bármely személyhez fűződő jogról való lemondás 
+   3. nincs ilyen jognyilatkozat 
+   4. örökbefogadáshoz való szülői hozzájárulás 
+ 
+179. Mit jelent a Ptk. szerint különösen a jó hírnév törvényi védelme? 
+   1. másról nem szabad valótlan, sértő tényt állítani, híresztelni, valós tényt hamis színben feltüntetni 
+   2. nem szabad más nevét jogtalanul használni, vagy jogtalanul máséhoz hasonló nevet használni 
+   3. nem szabad másról a sajtó nyilvánossága előtt annak engedélye nélkül nyilatkozni 
+   4. nem szabad másról annak engedélye nélkül valós, objektív híreket sem közölni 
+ 
+180. Egy mű csak akkor minősül szerzői alkotásnak, … 
+   1. ha az irodalom, a tudomány vagy a művészet területére eső egyéni, eredeti alkotás. 
+   2. ha szerepel az Szjt. tételes felsorolásában. 
+   3. ha az SZTNH által vezetett műnyilvántartásban feltüntetésre kerül. 
+   4. ha széles körben nyilvánosságra hozták. 
+ 
+181. Az alábbiak közül melyik kategóriába tartozó művek képezhetik kizárólagos szerzői jog tárgyát? 
+   1. ötlet, elv, elgondolás, eljárás, működési módszer, matematikai művelet 
+   2. jogszabályok, bírósági határozatok 
+   3. tények és napi hírek 
+   4. szoftverek és adatbázisok 
+ 
+182. Melyik a legjelentősebb történelmi forrása a magyar magánjognak☺? 
+   1. a Csemegi Kódex (!) 
+   2. az 1928-as MTV (!) 
+   3. az 1861-ben (!) megkötött Kiegyezés 
+   4. Katalin bírónő memoárja 
+ 
+183. Szerző 
+   1. csak ember lehet. 
+   2. csak cselekvőképes ember lehet. 
+   3. ember vagy jogi személy is lehet. 
+   4. csak ember, vagy az SZTNH-nál nyilvántartásba vett jogi személy lehet. 
+ 
+184. Az alábbiak közül melyik NEM szerzői személyhez fűződő jog? 
+A) a mű nyilvánosságra hozatala 
+   2. a név feltüntetése 
+   3. a mű egységének védelme 
+   4. a mű átruházása 
+ 
+185. Az alábbiak közül melyik NEM a szerzői művek szabad felhasználásnak feltétele? A) csak a mű rendes felhasználására lehet sérelmes. 
+   2. nem lehet kiterjesztően értelmezni a rá vonatkozó rendelkezéseket. 
+   3. indokolatlanul nem károsíthatja a szerzői jogos érdekeit. 
+   4. meg kell felelnie a tisztesség követelményeinek. 
+ 
+186. Az előadóművészek, a hangfelvétel-előállítók, a rádió- és televízió-szervezetek és a filmelőállítók… 
+   1. szerzőnek minősülnek a bírói gyakorlat alapján. 
+   2. szomszédos jogi jogosultaknak minősülnek az Szjt. alapján. 
+   3. merchandising jogosultaknak minősülnek az Szjt. alapján. 
+   4. a jogkimerülés elve alapján nem rendelkeznek szerzői jogokkal. 
+ 
+187. Az alábbiak közül melyik NEM a szabadalmazható találmány kritériuma? A találmány… 
+   1. világviszonylatban legyen új. 
+   2. alkotója cselekvőképes legyen. 
+   3. legyen iparilag alkalmazható. 
+   4. alapuljon feltalálói tevékenységen. 
+ 
+188. A Ptk…. 
+   1. tartalmaz egy „Szerzői jog és iparjogvédelem” c. fejezetet. 
+   2. nem tesz említést a szerzői jogról, csak az iparjogvédelemről. 
+   3. nem tesz említést az iparjogvédelemről, csak a szerzői jogról. 
+   4. említést sem tesz szerzői jogról vagy iparjogvédelemről, e területeket kizárólag más törvények szabályozzák. 
+ 
+189. A szabadalom… 
+   1. a találmány megalkotásának pillanatától biztosít jogi védelmet, a feltaláló élete végéig. 
+   2. a találmány megalkotásának pillanatától biztosít jogi védelmet, a szabadalmas élete végéig. 
+   3. a bejelentés napjától biztosít jogi védelmet, a szabadalmas élete végéig. 
+   4. a bejelentés napjától számított húsz évig biztosít jogi oltalmat. 
+ 
+190. Az alábbiak közül melyik kategóriába tartozó ábrázolás LEHET védjegy? 
+   1. hangokból álló megjelölés. 
+   2. önkényuralmi jelképet tartalmazó megjelölés. 
+   3. grafikailag nem ábrázolható, de megkülönböztető képességgel mégis rendelkező megjelölések. 
+   4. közerkölcsbe ütköző megjelölések. 
+ 
+191. A Ptk…. 
+   1. tartalmaz egy „Szerzői jog és iparjogvédelem” c. részt. 
+   2. nem tesz említést a szerzői jogról, csak az iparjogvédelemről. 
+   3. nem tesz említést az iparjogvédelemről, csak a szerzői jogról. 
+   4. említést sem tesz szerzői jogról vagy iparjogvédelemről, e területeket kizárólag más törvények szabályozzák. 
+ 
+192. A hézagmentes oltalom elve… 
+   1. alapján védi az új Ptk. a know how-t. 
+   2. az új Ptk.-ban nem biztosított. 
+   3. csak a szerzői jogi törvényben jelenik meg, az iparjogvédelem körében kizárt. D) mind a szerzői jogban, mind az iparjogvédelemben érvényesül. 
+ 
+193. A Berni Uniós Egyezmény szerint egy szerzői alkotás a BUE egy tagállamában oltalomban részesülhet akkor is, ha a származási országban az adott mű nem védett. A) Nem, ez csak az iparjogvédelem területen lehetséges a PUE alapján. 
+   2. Nem, erre csak az Európai Unió tagállamai esetén van lehetőség. 
+   3. Igen, erre lehetőség van a BUE védelmi minimum elvéből következően. 
+   4. Igen, erre lehetőség van a BUE védelem függetlenségének elve alapján. 
+ 
+194. Az alábbiak közül melyik kategóriába tartozó művek képezhetik kizárólagos szerzői jog tárgyát? 
+   1. ötlet, elv, elgondolás, eljárás 
+   2. jogszabályok, bírósági határozatok 
+   3. tények és napi hírek 
+   4. nyilvánosan tartott beszédek 
+ 
+195. A szerzői jogi törvény csak … 
+   1. a szépirodalmi, szakirodalmi és publicisztikai műveket védi. 
+   2. a szakirodalmi, tudományos és publicisztikai műveket védi. 
+   3. az irodalmi, tudományos és művészeti műveket védi. 
+   4. a szépirodalmi, szakirodalmi és művészeti műveket védi. 
+ 
+196. Az alábbiak közül melyik NEM részesülhet szerzői jogi védelemben: 
+   1. a nyilvánossághoz még el nem juttatott mű 
+   2. tárgyiasult formában még meg nem jelenő mű 
+   3. félkész mű 
+   4. a mű egy része 
+ 
+197. Az alábbiak közül melyik NEM részesülhet szerzői jogi védelemben? 
+A) megrendelésre létrehozott mű 
+   2. a silány minőségű mű 
+   3. jogszabállyal kötelezővé tett szabványok 
+   4. műszaki létesítmény terve 
+ 
+198. Szerző … 
+   1. csak ember lehet. 
+   2. csak cselekvőképes ember lehet. 
+   3. ember vagy jogi személy is lehet. 
+   4. csak ember, vagy az SZTNH-nál nyilvántartásba vett jogi személy lehet. 
+ 
+199. A szerzők jogutódjaként azt a személyt illeti meg a szerzői jog, akinek kezdeményezésére és irányításával a művet létrehozták, és aki azt a saját nevében nyilvánosságra hozta … 
+A) gyűjteményes művek esetében. 
+   2. származékos művek esetében. 
+   3. összekapcsolt művek esetében. 
+   4. együttes művek esetében. 
+ 
+200. Annak, hogy a mű elkészítése a szerző munkaviszonyból fakadó kötelezettsége, … A) a szerzői személyhez fűződő jogokra nincs hatással. 
+   2. csak a szerzői személyhez fűződő jogokra van hatással. 
+   3. mind a szerzői vagyoni, mind a személyhez fűződő jogokra hatással van. 
+   4. a szerzői jog tartalmára nincs hatással. 
+ 
+201. Egy alkotást a szerző … 
+   1. nevének feltüntetése nélkül is nyilvánosságra hozhat. 
+   2. névfeltüntetés nélkül nem, de felvett néven nyilvánosságra hozhat. 
+   3. felvett néven csak akkor hozhat nyilvánosságra, ha bejelentkezett az Artisjus álnév nyilvántartásába. 
+   4. felvett néven csak akkor hozhat nyilvánosságra, ha bejelentkezett az SZTNH álnév nyilvántartásába. 
+ 
+202. Egy mű eltorzítása, megcsonkítása … 
+A) sérti a szerzői minőséghez való jogot. 
+   2. sérti a névfeltüntetés jogát. 
+   3. sérti az integritás jogát. 
+   4. a szabad felhasználás körébe tartozik. 
+203. A magyar szerzői jog … 
+   1. dualista felfogáson alapul. 
+   2. monista felfogáson alapul. 
+   3. mérsékelt monista felfogáson alapul. 
+   4. szigorított monista felfogáson alapul. 
+ 
+204. A felhasználási szerződés főszabály szerint … 
+A) ingyenes. 
+   2. visszterhes. 
+   3. fix díjas. 
+   4. jutalék alapú. 
+ 
+205. A szerzői jogi felhasználási szerződésekre nézve … 
+A) érvényesül a típusszabadság. 
+   2. nem érvényesül a típusszabadság. 
+   3. érvényesül a típusszabadság, a szoftver-felhasználási szerződéseket kivéve. 
+   4. érvényesül a típusszabadság, az adatbázis-felhasználási szerződéseket kivéve. 
+ 
+206. A többszörözés, a terjesztés, a kiállítás és a nyilvánossághoz közvetítés … 
+A) tipikus anyagi jellegű felhasználási módok. 
+   2. tipikus nem anyagi jellegű felhasználási módok. 
+   3. a felhasználás tipikus céljai. 
+   4. törvényben nevesített felhasználási módok. 
+ 
+207. Melyik állítás IGAZ? 
+   1. A szerzőt mindig megilleti jogdíj műve felhasználása fejében. 
+   2. A szerzőt a védelmi időn belül mindig megilleti jogdíj műve felhasználása fejében. 
+   3. A szerzőnek engedélyezési joga nélkül is lehet díjigénye. 
+   4. A szerzőnek díjigény nélkül is lehet engedélyezési joga a közös jogkezelés körében. 
+ 
+208. A védelmi idő elvéből fakadóan … 
+   1. a felhasználási szerződés csak határozott időre köthető. 
+   2. a kizárólagos felhasználási szerződés csak határozott időre köthető. 
+   3. a felhasználási szerződés a szerző halálát követő hetven év elteltével megszűnik. 
+   4. egy mű felhasználására csak a szerző halálát követő hetven év elteltével nyílik lehetőség. 
+ 
+209. Az alábbiak közül ki minősül szomszédos jogi jogosultnak? 
+A) hangfelvétel előállítója 
+   2. adatbázis előállítója 
+   3. szoftver szerzője 
+   4. film szerzője 
+ 
+210. A szerzői jogok megsértése esetére rendelkezésre álló szankciók … 
+A) polgári jogi jogkövetkezmények. 
+   2. büntetőjogi jogkövetkezmények. 
+   3. közül jogsértésenként egy választható. 
+   4. a vagyoni és a személyhez fűződő jogok védelmét is biztosítják. 
+ 
+211. Milyen elsőbbséget megalapozó nap NINCS a szabadalmi jogban? 
+   1. uniós elsőbbség 
+   2. belső elsőbbség 
+   3. kiállítási elsőbbség 
+   4. bejelentési elsőbbség 
+ 
+212. Milyen elsőbbséget megalapozó nap van a szabadalmi jogban? 
+A)         közzétételi elsőbbség 
+   2. használati elsőbbség 
+   3. kiállítási elsőbbség 
+   4. bejelentési elsőbbség 
+ 
+213. Mire utal az uniós elsőbbség a szabadalmi jogban? 
+   1. az Európai Unióra (EU) 
+   2. a Párizsi Uniós Egyezményre (PUE) 
+   3. a Berni Uniós Egyezményre (BUE) 
+   4. az Európai Gazdasági Együttműködési megállapodásra 
+ 
+214. Megilleti-e a névfeltüntetés mellőzésének joga a szabadalmast? 
+   1. igen, ha azt a bejelentéssel egyidejűleg kéri 
+   2. igen, ha azt a bejelentés közzététele előtt kéri 
+   3. igen, ha azt a lajstromozást megelőzően kéri 
+   4. nem 
+ 
+215. Kit illet meg a szabadalom az alkalmazotti találmány körében? 
+   1. a feltalálót 
+   2. a munkáltatót – elsődlegesen, a munkaviszonyból kifolyólag 
+   3. a munkáltatót – másodlagosan, az alkalmazott jogutódjaként 
+   4. a munkáltatót – ha arra igényt tart és erről nyilatkozik 90 napon belül 
+ 
+216. Kit illet meg a szabadalom a szolgálati találmány körében? 
+   1. a feltalálót 
+   2. a munkáltatót – elsődlegesen, a munkaviszonyból kifolyólag 
+   3. a munkáltatót –az alkalmazott jogutódjaként 
+   4. a feltalálót és a munkáltatót együttesen 
+ 
+217. Mikor NEM illeti meg szolgálati találmány esetén a feltalálót a találmányi díj? 
+A)         ha a munkáltató a szolgálati találmányt más részére értékesíti 
+   2. ha a munkáltató a szolgálati találmányt maga hasznosítja 
+   3. ha a munkáltató a szolgálati találmányt titokban tartják 
+   4. ha a munkáltató a szolgálati találmány ideiglenes oltalmáról lemond 
+ 
+218. Alkalmazotti találmány esetén… 
+   1. a szabadalom a feltalálót, a találmány hasznosítása a munkáltatót illeti meg. 
+   2. a szabadalom és a találmány hasznosítása is a feltalálót illeti meg. 
+   3. a szabadalom és a találmány hasznosítása is a munkáltatót illeti meg. 
+   4. a munkáltatót kizárólagos hasznosítási jog illeti meg a találmányon. 
+ 
+219. Mire NEM terjed ki a szabadalmas kizárólagos hasznosítási joga? 
+   1. a gazdasági tevékenység körébe eső használatra 
+   2. a gazdasági tevékenység körén kívüli használatra 
+   3. a találmány lényeges elemével kapcsolatos dolog átadására, ha az a találmány megvalósítása céljából történik 
+   4. a találmány lényeges elemével kapcsolatos dolog átadására irányuló felajánlására, ha az a találmány megvalósítása céljából történik 
+ 
+220. A szabadalom az előhasználati jog jogosultjával szemben…  
+   1. az előhasználó jóhiszeműségére tekintet nélkül hatálytalan 
+   2. az előhasználó jóhiszeműségére tekintet nélkül érvénytelen 
+   3. kizárólag az előhasználó jóhiszeműsége esetén hatálytalan 
+   4. kizárólag az előhasználó jóhiszeműsége esetén érvénytelen 
+ 
+221. A szabadalom a továbbhasználati jog jogosultjával szemben…  
+   1. a továbbhasználó jóhiszeműségére tekintet nélkül hatálytalan 
+   2. a továbbhasználó jóhiszeműségére tekintet nélkül érvénytelen 
+   3. kizárólag a továbbhasználó jóhiszeműsége esetén hatálytalan 
+   4. kizárólag a továbbhasználó jóhiszeműsége esetén érvénytelen 
+ 
+222. Szabadalmi kényszerengedély legkorábban akkor adható, ha a szabadalmas… 
+A)         a bejelentés napjától számított 5 év elteltével nem hasznosította a találmányt. 
+   2. a szabadalom megadásától számított 5 év elteltével nem hasznosította a találmányt. 
+   3. a bejelentés napjától számított 4 év elteltével nem hasznosította a találmányt. 
+   4. a szabadalom megadásától számított 4 év elteltével nem hasznosította a találmányt. 
+ 
+223. A találmány hasznosítás elmulasztása miatti kényszerengedély kiadásának megakadályozása érdekében… 
+   1. a szabadalmas – a szabadalom fennállta alatt időkorlátozás nélkül – igazolhatja a hasznosítás elmaradását (mulasztását). 
+   2. a szabadalmas – kizárólag a szabadalom megadásától számított 3 éven belül – igazolhatja a hasznosítás elmaradását (mulasztását). 
+   3. a szabadalmas – kizárólag a szabadalmi bejelentésétől számított 4 éven belül – igazolhatja a hasznosítás elmaradását (mulasztását). 
+   4. a szabadalmas nem igazolhatja a hasznosítás elmaradását (mulasztását). 
+ 
+224. Milyen szabadalmi kényszerengedély NINCS? 
+   1. szabadalmak függősége miatti kényszerengedély 
+   2. közegészségügyi problémák kezelése miatti kényszerengedély 
+   3. biotechnológiai fejlesztés miatti kényszerengedély 
+   4. a használat elmulasztás miatti kényszerengedély 
+ 
+225. Mi NEM feltétele a szabadalmak függősége miatti kényszerengedélynek? 
+   1. a függő szabadalom a gátló szabadalomhoz képest jelentős műszaki előrelépést jelent 
+   2. a gátló szabadalom jogosultja ésszerű időn belül önként nem ad felhasználási engedélyt 
+   3. a gátló szabadalom jogosultja – feltételekkel – igényt tarthat a függő szabadalom szerinti találmány hasznosítására 
+   4. a kényszerengedély díját az SZTNH állapítja meg 
+ 
+226. A szabadalmi kényszerengedély terjedelmét és idejét… 
+   1. a bíróság állapítja meg 
+   2. az SZTNH állapítja meg 
+   3. a gátló szabadalom jogosultja állapítja meg 
+   4. a függő szabadalom jogosultja állapítja meg 
+ 
+227. Mit jelent a klaudikáló kógencia☺? 
+   1. nyelvújítás előtti kifejezés, mai jelentése: mórikáló elegancia (ti.: befektetési tanácsadó; vö. angolban: broker) 
+   2. Laudi (!) tanár úr félfogadási ideje 
+   3. Liptai Klaudia műsoraitól való kényszeres függőség 
+   4. Mondtam már, hogy én CSAK FRANCIÁUL tudok! 
+ 
+228. Mikor NEM szűnik meg az ideiglenes szabadalmi oltalom? 
+   1. ha a bejelentő azonos tárgyú, későbbi elsőbbségű használati minta bejelentést is tesz 
+   2. ha fenntartási díjat türelmi időn belül nem fizetik meg 
+   3. ha a bejelentő az oltalomról lemond 
+   4. ha a szabadalmi bejelentést jogerősen elutasítják 
+ 
+229. Mi NEM része a szabadalmi bejelentésnek? 
+A)         a bejelentési kérelem 
+   2. az árujegyzék 
+   3. a rajz és egyéb mellékletek 
+   4. a kivonat 
+ 
+230. Mi NEM feltétele a nemleges megállapítási eljárásnak a szabadalmi jogban? 
+   1. az indítja, aki attól tart, hogy ellene szabadalombitorlás miatt eljárást indítanak 
+   2. a nemleges megállapítást kimondó jogerős határozat kizárja a jövőre nézve a vizsgált megoldások tekintetében szabadalombitorlási eljárás indítását 
+   3. a szabadalmas előzetes nyilatkozata alapján a bíróság nemperes eljárásban hoz határozatot a nemleges megállapítási kérelemről 
+   4. a nemleges megállapítási kérelemre külön díjat kell fizetni 
+ 
+231. Milyen megjelölés NEM részesíthető – főszabály szerint - védjegyoltalomban? 
+   1. sík alakzat 
+   2. fényjel 
+   3. illat 
+   4. hang 
+ 
+232. Milyen megjelölés NEM részesíthető – főszabály szerint - védjegyoltalomban? 
+   1. nemzeti címer 
+   2. hang 
+   3. hologram 
+   4. fényjel 
+ 
+233. Melyik jelmondat/szlogen NEM részesíthető védjegyoltalomban? 
+   1. „Hajrá Magyarország! Hajrá magyarok!” 
+   2. „Unicum, Magyarország nemzeti itala” 
+   3. „Budapest, Magyarország fővárosa” 
+   4. „CBA – Magyar üzletlánc” 
+ 
+234. Melyik megjelölés NEM tanúsító védjegy? 
+   1. Príma Pék 
+   2. Kézműves Termék 
+   3. Kiváló Áruk Fóruma 
+   4. Hazai Termék 
+ 
+235. Mi NEM része a védjegybejelentésnek? 
+A)         a bejelentési kérelem 
+   2. az igénypontok 
+   3. a védjegy megnevezés 
+   4. a védjegyfajta feltüntetése 
+ 
+236. Mi az áruosztály (védjegyek nemzetközi osztályozása) szabályozásának jogforrása? 
+   1. a TRIPS Egyezmény 
+   2. a Madridi Megállapodás 
+   3. a Párizsi Uniós Egyezmény 
+   4. a Nizzai Megállapodás 
+ 
+237. Mit jelent a védjegyoltalom kimerülése? 
+   1. a megjelölés elveszti megkülönböztető képességét 
+   2. lejár a védjegyoltalom időtartama és azt a rendelkezésre álló időn belül a védjegyjogosult nem újítja meg 
+   3. a védjegyjogosult nem tilthatja meg a védjegy használatát olyan árukkal kapcsolatban, amelyeket ő hozott forgalomba 
+   4. ha a védjegyoltalmat a jogosult 5 évet meghaladóan nem használja és arra vonatkozóan előkészületet sem tesz 
+ 
+238. A védjegyoltalom időtartama… 
+   1. 5 év, és négyszer meghosszabbítható 
+   2. 10 év, és nem meghosszabbítható 
+   3. 10 év, és négyszer meghosszabbítható 
+   4. 10 év, és korlátlan alkalommal meghosszabbítható újabb 10-10 évre 
+ 
+239. Mit jelent a belenyugvás a védjegy jogban? 
+   1. ha a védjegyjogosult 5 éven át eltűri egy későbbi azonos megjelölés használatát (belenyugvás), akkor a jövőben már nem léphet fel védjegybitorlás miatt 
+   2. ha a védjegyjogosult az oltalom lejártát követő türelmi időn belül nem újítja meg a védjegyoltalmát (belenyugvás), akkor a védjegyoltalom megszűnik 
+   3. ha a védjegyjogosult nem él az észrevételezési jogával a lajstromozási eljárásban (belenyugvás), akkor a védjegyet az SZTNH által meghatározott terjedelemben lajstromozzák 
+   4. ha a jogosult lajstromozás hiányában is 5 éven át zavartalanul használja a megkülönböztetést, akkor annak oltalomképességét az SZTNH külön eljárásban ismeri el (belenyugvás) 
+ 
+240. Mit jelent a megosztási eljárás a védjegy jogban? 
+   1. ha több védjegyjogosult van, és nem tudnak megállapodni a védjegyen fennálló részesedésükben, akkor azt az SZTNH külön eljárásban állapítja meg 
+   2. ha több védjegyjogosult van, és nem tudnak megállapodni a védjegyen fennálló részesedésükben, akkor azt a bíróság nemperes eljárásban állapítja meg 
+   3. ha a védjegyjogosult – az árujegyzék szétválasztásával – meghatározott áruk tekintetében kezdeményezi az SZTNH-nál a védjegyoltalom megosztását 
+   4. ha a védjegyjogosult – az árujegyzék szétválasztásával – meghatározott áruk tekintetében kezdeményezi a bíróságnál a védjegyoltalom megosztását 
+ 
+241. Milyen elsőbbséget megalapozó nap van a védjegy jogban? 
+A) közzétételi elsőbbség 
+   2. használati elsőbbség 
+   3. kiállítási elsőbbség 
+   4. árujegyzék elsőbbség 
+ 
+242. Milyen elsőbbséget megalapozó napok vannak a védjegy jogban? 
+   1. közzétételi és kiállítási elsőbbség 
+   2. használati és bejelentési elsőbbség 
+   3. kiállítási és bejelentési elsőbbség 
+   4. bejelentési és közzétételi elsőbbség 
+ 
+243. Milyen megjelölés részesíthető földrajzi árujelzők oltalmában? 
+   1. olyan árujelző, amely a termék szokásos elnevezésévé vált a kereskedelmi forgalomban 
+   2. olyan árujelző, amely a termék általánosan ismert fajtanevévé vált 
+   3. olyan megjelölés, amely védjegyoltalma lejárt 
+   4. olyan megjelölés, amelyet eredetmegjelölésként használnak 
+ 
+244. Mi NEM jellemző a földrajzi árujelzők oltalmára? 
+   1. a földrajzi árujelző mögött nem áll személyiségi jog 
+   2. a földrajzi árujelző nem állhat kizárólag földrajzi jelzésből 
+   3. a földrajzi árujelző oltalma kollektív jogosultságot biztosít 
+   4. a földrajzi árujelző oltalma lajstromozással jön létre 
+ 
+245. Melyik megjelölés NEM minősül(het) földrajzi árujelzőnek? 
+A)         Vecsési káposzta 
+   2. Gyulai kolbász 
+   3. Óvári sajt 
+   4. Ementáli sajt 
+ 
+246. Melyik megjelölés NEM minősül(het) földrajzi árujelzőnek? 
+   1. Debreceni mézes 
+   2. Debreceni 
+   3. Herend 
+   4. Herendi Porcelán 
+ 
+CSALÁDJOG (Ptk.: Negyedik Könyv) 
+ 
+247. Megköthető-e a házasság a szándék bejelentése után azonnal? 
+   1. igen, a jegyző felmentése alapján 
+   2. igen, az anyakönyvvezető felmentése alapján 
+   3. igen, a gyámhatóság engedélye alapján 
+   4. igen, a közjegyző felmentése alapján 
+ 
+248. Melyik NEM házassági érvénytelenségi ok az alábbiak közül főszabály szerint? 
+   1. testvérek egymással kötött házassága 
+   2. testvérnek testvére vér szerinti leszármazójával kötött házassága 
+   3. házastársnak a volt házastársa egyenesági rokonával kötött házassága 
+   4. bejegyzett élettársi kapcsolat fennállása 
+ 
+249. Az alábbiak közül mi NEM tartozik a házassági közös vagyon körébe? 
+   1. a házastárs különvagyonának hozama 
+   2. közösen kapott ajándék 
+   3. a házassági életközösség alatt létrehozott műért járó szerzői jogdíj 
+   4. a házasságkötéskor megvolt vagyontárgy 
+ 
+250. Előírja-e a Ptk. a házastársi hűség kötelezettségét? 
+   1. nem, mert nem lehet kikényszeríteni 
+   2. igen, a házastársak személyi viszonyai között írja elő 
+   3. nem, mert kizárólag a Vodafone-nak lehet hűséget fogadni 
+   4. igen, a házastársak személyi és vagyoni viszonyai között is szabályozza 
+ 
+251. Mi az örökbefogadás célja? 
+   1. az, hogy örököse legyen az örökbefogadónak 
+   2. az, hogy családi kapcsolatot létesítsen az örökbefogadó és annak rokonai, valamint az örökbefogadott között 
+   3. a gyermeknek jobb az örökbefogadónál, mint ha intézetben lenne 
+   4. jobban nevelhető a gyermek az örökbefogadónál 
+ 
+252. Mikor érdemtelen a volt házastárs a tartásra az alábbiak közül? 
+   1. akinek súlyosan kifogásolható életvitele járult hozzá a házasság megromlásához 
+   2. aki saját szükséges tartását önhibáján kívül nem képes megoldani 
+   3. a volt házastárs a tartásra nem lehet érdemtelen 
+   4. akinek súlyosan kifogásolható életvitele járult hozzá a házasság megkötéséhez 
+ 
+253. Kik a rokonok? 
+   1. az egyenes ági lemenők és felmenők 
+   2. az egymástól és a közös elődtől származó személyek 
+   3. a hozzátartozók és a közeli hozzátartozók 
+   4. csak a közeli hozzátartozók 
+ 
+254. Dönthet-e a bíróság a bontóper során a házastársak lakásán fennálló közös tulajdon megszüntetéséről? 
+   1. igen, erre irányuló kérelemre 
+   2. nem, ez kizárólag egy későbbi per tárgya lehet 
+   3. nem, mert csak a lakáshasználati jog rendezését lehet kérni a közös tulajdon megszüntetése nélkül 
+   4. nem, mert tisztázandó előkérdés, hogy melyik tulajdonostárs marad a lakásban 
+255. Mi a kiskorú gyermek tartásának speciális vonása a többi rokontartással szemben? A) a gyermek nem jogosult a tartásra, ha nem folytat tanulmányokat 
+   2. a házastárs tartása megelőzi a gyermektartást 
+   3. csak akkor jár a tartás, ha a gyermek rászorult és nem érdemtelen 
+   4. a szülő saját tartása rovására is köteles a gyermeket eltartani 
+ 
+256. Mit jelent a házassági köteléken alapuló apasági vélelem? 
+   1. azt a férfit kell apának tekinteni, akivel az anya a gyermek születésekor házassági kötelékben állt 
+   2. azt a férfit kell apának tekinteni, akivel az anya a gyermek fogamzási idejének kezdetétől a gyermek születéséig eltelt idő vagy annak egy része alatt házassági kötelékben állt 
+   3. azt a férfit kell apának tekinteni, akivel az anya a gyermek születésekor házassági vagy élettársi kötelékben állt 
+   4. azt a férfit kell apának tekinteni, akivel az anya a gyermek fogamzási idejének kezdetétől a gyermek születéséig eltelt idő vagy annak egy része alatt házassági vagy élettársi kötelékben állt 
+ 
+257. Kik döntenek elsődlegesen a házasság felbontása során elsődlegesen a gyermek elhelyezésről? 
+   1. a szülők, de a bíróságnak jóvá kell hagynia a megállapodást 
+   2. a szülők nem dönthetnek, kizárólag a bíróság 
+   3. a gyámhatóság dönt a gyermek egyidejű meghallgatásával 
+   4. a szülők és a gyermek szabadon dönthetnek 
+ 
+258. Melyik NEM feltétele a volt házastárs tartásának? 
+   1. a volt házastárs a tartásra, önhibáján kívül rászoruljon 
+   2. ne legyen érdemtelen 
+   3. a kötelezett képes legyen a tartásra 
+   4. a kötelezettnek ne legyen kiskorú gyermeke 
+ 
+259. Meg lehet-e támadni az apaság vélelmét? 
+   1. igen, mindegyik apasági vélelem megdönthető 
+   2. nem, ezek megdönthetetlen vélelmek 
+   3. igen, kivéve ha az apaságot bíróság állapította meg; vagy a származás reprodukciós eljárás következménye 
+   4. nem, kivéve, ha az apaságot bíróság állapította meg 
+ 
+260. Van-e joghatása az érvénytelen házasságnak? 
+   1. nincs, az érvénytelenné nyilvánító bírósági határozat a megkötéstől kezdve megszünteti a joghatásokat 
+   2. igen, több is, pl. apasági vélelem 
+   3. igen, de csak a névviselésre vonatkozóan 
+   4. főszabály szerint nincs, csak a felek egyezsége alapján 
+ 
+261. Mi NEM feltétele az apaság nyilatkozattal történő teljes hatályú elismerésének? 
+   1. nemi kapcsolat az apa és az anya között 
+   2. 16 év korkülönbség a gyermek és a nyilatkozó között 
+   3. hozzájáruló nyilatkozatok az anya és a 16 év feletti gyermek részéről 
+   4. apai hely betöltetlensége 
+262. Mi a feltétele – többek között – a rokontartásnak? 
+   1. csak a közvetlen rokon kötelezhető 
+   2. csak a felmenők kötelezhetők 
+   3. rászorult legyen a rokon és ne legyen érdemtelen 
+   4. nincs egyetlen kiskorú gyermeke sem a kötelezettnek 
+ 
+263. Mi a polgári jogi joghatása a kettős házasságnak? 
+   1. érvénytelen a második házasság 
+   2. érvénytelen mindkét házasság 
+   3. a második házasság érvénytelen és ez nem orvosolható 
+   4. a második házasság érvénytelen, de az érvényessé válik, ha az első házasság megszűnik 
+ 
+264. Kinek lehet gyámja? 
+   1. annak, aki gondnokság alatt áll 
+   2. annak, akit örökbe fogadtak 
+   3. annak a kiskorúnak, akinek a szülei nem élnek vagy nem alkalmasak a gyermek nevelésére 
+   4. annak a kiskorúnak, akit a bíróság az egyik szülőnél helyezett el, a másik szülőt gyám pótolja 
+ 
+265. Mi NEM tartozik a házastárs különvagyonába az alábbiak közül? 
+A) a házastárs személyét ért sérelemért kapott juttatás (sérelemdíj) 
+   2. a különvagyon értékén szerzett vagyontárgy 
+   3. a szokásos mértéket meghaladó, de személyes használatra szolgáló vagyontárgy 
+   4. a házasság fennállása alatt örökölt vagyontárgy 
+ 
+266. Melyik esetben szünetel a szülői felügyeleti jog az alábbiak közül? 
+   1. ha a szülő cselekvőképtelen 
+   2. ha a gyermek nagykorúvá vált 
+   3. ha a szülő a gyermek személye ellen szándékos bűncselekményt követett el 
+   4. méhmagzat esetén az élveszületésig 
+ 
+267. Melyik NEM házassági érvénytelenségi ok az alábbiak közül főszabály szerint? 
+   1. testvérek egymással kötött házassága 
+   2. testvérnek testvére vér szerinti leszármazójával kötött házassága 
+   3. házastársnak a volt házastársa egyenesági rokonával kötött házassága 
+   4. bejegyzett élettársi kapcsolat fennállása 
+ 
+268. Az alábbiak közül mi NEM tartozik a házassági közös vagyon körébe? 
+   1. a házastárs különvagyonának hozama 
+   2. közösen kapott ajándék 
+   3. a házassági életközösség alatt létrehozott műért járó szerzői jogdíj 
+   4. a házasságkötéskor megvolt vagyontárgy 
+ 
+269. Előírja-e a Ptk. a házastársi hűség kötelezettségét? 
+   1. nem, mert nem lehet kikényszeríteni 
+   2. igen, a házastársak személyi viszonyai között írja elő 
+   3. nem, mert kizárólag a Vodafone-nak lehet hűséget fogadni 
+   4. igen, a házastársak személyi és vagyoni viszonyai között is szabályozza 
+270. Kik a rokonok? 
+   1. az egyenes ági lemenők és felmenők 
+   2. az egymástól és a közös elődtől származó személyek 
+   3. a hozzátartozók és a közeli hozzátartozók 
+   4. csak a közeli hozzátartozók 
+ 
+271. Mit jelent a házassági köteléken alapuló apasági vélelem? 
+   1. azt a férfit kell apának tekinteni, akivel az anya a gyermek születésekor házassági kötelékben állt 
+   2. azt a férfit kell apának tekinteni, akivel az anya a gyermek fogamzási idejének kezdetétől a gyermek születéséig eltelt idő vagy annak egy része alatt házassági kötelékben állt 
+   3. azt a férfit kell apának tekinteni, akivel az anya a gyermek születésekor házassági vagy élettársi kötelékben állt 
+   4. azt a férfit kell apának tekinteni, akivel az anya a gyermek fogamzási idejének kezdetétől a gyermek születéséig eltelt idő vagy annak egy része alatt házassági vagy élettársi kötelékben állt 
+ 
+272. Mi a személyiségvédelem szubjektív (!) eszköze a legújabb (!) bírói gyakorlat alapján☺? 
+   1. fogház 
+   2. kórház 
+   3. dologház 
+   4. Ne szólj szám, nem fáj fejem! 
+ 
+273. Mi az örökbefogadás célja? 
+   1. az, hogy örököse legyen az örökbefogadónak 
+   2. az, hogy családi kapcsolatot létesítsen az örökbefogadó és annak rokonai, valamint az örökbefogadott között 
+   3. a gyermeknek jobb az örökbefogadónál, mint ha intézetben lenne 
+   4. jobban nevelhető a gyermek az örökbefogadónál 
+ 
+274. Mi a kiskorú gyermek tartásának speciális vonása a többi rokontartással szemben? A) a gyermek nem jogosult a tartásra, ha nem folytat tanulmányokat 
+   2. a házastárs tartása megelőzi a gyermektartást 
+   3. csak akkor jár a tartás, ha a gyermek rászorult és nem érdemtelen 
+   4. a szülő saját tartása rovására is köteles a gyermeket eltartani 
+ 
+275. Mi a polgári jogi joghatása a kettős házasságnak? 
+   1. érvénytelen a második házasság 
+   2. érvénytelen mindkét házasság 
+   3. a második házasság érvénytelen és ez nem orvosolható 
+   4. a második házasság érvénytelen, de az érvényessé válik, ha az első házasság megszűnik
+
+
+276. Kik döntenek elsődlegesen a házasság felbontása során elsődlegesen a gyermek elhelyezésről? 
+   1. a szülők, de a bíróságnak jóvá kell hagynia a megállapodást 
+   2. a szülők nem dönthetnek, kizárólag a bíróság 
+   3. a gyámhatóság dönt a gyermek egyidejű meghallgatásával 
+   4. a szülők és a gyermek szabadon dönthetnek 
+ 
+277. Mikor érdemtelen a volt házastárs a tartásra az alábbiak közül? 
+   1. akinek súlyosan kifogásolható életvitele járult hozzá a házasság megromlásához 
+   2. aki saját szükséges tartását önhibáján kívül nem képes megoldani 
+   3. a volt házastárs a tartásra nem lehet érdemtelen 
+   4. akinek súlyosan kifogásolható életvitele járult hozzá a házasság megkötéséhez 
+ 
+278. Meg lehet-e támadni az apaság vélelmét? 
+   1. igen, mindegyik apasági vélelem megdönthető 
+   2. nem, ezek megdönthetetlen vélelmek 
+   3. igen, kivéve ha az apaságot bíróság állapította meg; vagy a származás reprodukciós eljárás következménye 
+   4. nem, kivéve, ha az apaságot bíróság állapította meg 
+ 
+279. Mi a feltétele – többek között – a rokontartásnak? 
+   1. csak a közvetlen rokon kötelezhető 
+   2. csak a felmenők kötelezhetők 
+   3. rászorult legyen a rokon és ne legyen érdemtelen 
+   4. nincs egyetlen kiskorú gyermeke sem a kötelezettnek 
+ 
+280. Dönthet-e a bíróság a bontóper során a házastársak lakásán fennálló közös tulajdon megszüntetéséről? 
+   1. igen, erre irányuló kérelemre 
+   2. nem, ez kizárólag egy későbbi per tárgya lehet 
+   3. nem, mert csak a lakáshasználati jog rendezését lehet kérni a közös tulajdon megszüntetése nélkül 
+   4. nem, mert tisztázandó előkérdés, hogy melyik tulajdonostárs marad a lakásban 
+ 
+281. Melyik NEM feltétele a volt házastárs tartásának? 
+   1. a volt házastárs a tartásra, önhibáján kívül rászoruljon 
+   2. ne legyen érdemtelen 
+   3. a kötelezett képes legyen a tartásra 
+   4. a kötelezettnek ne legyen kiskorú gyermeke 
+          
+DOLOGI JOG (Ptk.: Ötödik Könyv) 
+ 
+282. Ha a tulajdonos egy tulajdonostársának kívánja eladni tulajdonrészét, megilleti-e elővásárlási jog a többi tulajdonostársat?  
+   1. Igen 
+   2. Nem 
+   3. Igen, feltéve, hogy valamelyik tulajdonostárs ajánlata kedvezőbb 
+   4. Igen, feltéve, ha külön jogszabály így rendelkezik 
+ 
+283. Átengedhető-e harmadik személynek a haszonélvezeti jog gyakorlása ellenérték fejében?  
+   1. Nem, mert a haszonélvezet személyes szolgalom 
+   2. Csak ha a tulajdonos a dolog használatára azonos feltételek mellett nem tart igényt 
+   3. Igen, minden további nélkül 
+   4. Nem, mert ez kizárólag a tulajdonos joga 
+ 
+284. Milyen dolgokra létesíthető telki szolgalom?  
+   1. Bármilyen dologra  
+   2. Ingatlanokra és elhasználhatatlan ingókra  
+   3. Ingatlanokra 
+   4. Magántulajdonban álló ingatlanokra 
+ 
+285. Lehet-e rendelkezni dolog módjára az emberi test egészével?  
+   1. Még kivételesen sem 
+   2. Igen 
+   3. Anyagi ellenszolgáltatás nélkül igen 
+   4. Anyagi ellenszolgáltatásért igen 
+ 
+286. Mikor szakad meg az elbirtoklás az alábbiak közül?  
+   1. A birtokos a birtokot akaratán kívül elveszti, és egy éven belül nem szerzi vissza 
+   2. A tulajdonos menthető okból nem képes gyakorolni jogait 
+   3. A birtokjog más (elbirtokló) személyhez kerül az elbirtoklótól 
+   4. A birtokos a birtokot akaratán kívül elveszti, és hat hónapon belül nem szerzi vissza 
+ 
+287. Ki jogosult a termék, termény, szaporulat elsajátítására?  
+   1. Csak a jóhiszemű birtokos, a haszonélvező, és a használati jog jogosultja 
+   2. Csak a találó, a birtokos, és a tulajdonos 
+   3. Csak akinek más dolgán olyan joga van, mely erre őt feljogosítja, a jóhiszemű birtokos, és a tulajdonos 
+   4. Csak az, akinek más dolgán olyan joga van, mely erre őt feljogosítja 
+ 
+288. Mikor lehet a birtok visszaszerzése érdekében önhatalommal élni?  
+   1. Ha más birtokvédelmi eszközök igénybevételével járó időveszteség a visszaszerzést meghiúsítaná, s nem lépi túl a szükséges mértéket 
+   2. Ha a birtok megvédéséhez szükséges mértékű 
+   3. Ha más birtokvédelmi eszközök igénybevétele nem biztosítaná a birtok azonnali visszaszerzését 
+   4. Ha a birtokos a lehető leghamarabb él az önhatalommal 
+ 
+289. Mikor keletkezik közös tulajdon?  
+   1. Ha a ráépítő által épített épület értékesebb, mint a föld. 
+   2. Ha a ráépítő jóhiszemű volt. 
+   3. Ha a ráépítő (hozzáépítő) – jelentős értékben – bővíti a más tulajdonában álló épületet, vagy a közös tulajdonra vonatkozó szerződést köt a tulajdonossal. 
+   4. Ha a föld nem megosztható. 
+ 
+290. A tulajdonosnak a tulajdonjog megsértése következtében fellépő igénye mikor évül el?  
+   1. Rendes elévüléssel, mivel kötelmi jogi igény 
+   2. Nem évül el, mert tulajdoni igény 
+   3. Rendes elévüléssel, mert tulajdoni igény 
+   4. Nem évül el, mert kötelmi jogi igény 
+ 
+291. Megilleti-e a birtokvédelem a haszonélvezőt a tulajdonossal szemben?  
+   1. Nem 
+   2. Igen 
+   3. Csak ha a tulajdonos szerződéssel ki van zárva a használatból 
+   4. Nem, mert a tulajdonos jogosult ellenőrizni a jog rendeltetésszerű gyakorlását 
+ 
+292. Melyik származékos szerzésmód az alábbiak közül?  
+A)  Hatósági árverés 
+   2. Találás 
+   3. Átruházás 
+   4. Elbirtoklás 
+ 
+293. Melyik származékos szerzésmód az alábbiak közül?  
+A)  Hatósági árverés 
+   2. Találás 
+   3. Öröklés 
+   4. Elbirtoklás 
+ 
+294. Mi az egyediség elve a dologi jogban?  
+   1. A dologi jog tárgya mindig csak egyedileg meghatározott dolog lehet 
+   2. A dologi jogviszonyok – egyedülálló módon – abszolút szerkezetűek 
+   3. A tulajdonjog – egyedülálló módon – teljes és csak szűk határok között korlátozható D)  Minden jogalany egyedileg a dologi jogok jogosultja lehet 
+ 
+295. Ingatlan tulajdonjogának átruházásához szükséges…  
+   1. csak az átruházásra irányuló jogcím 
+   2. az átruházásra irányuló jogcím és ennek ingatlan-nyilvántartási bejegyzése 
+   3. az átruházásra irányuló jogcím és az ingatlan birtokának átruházása 
+   4. csak az átruházás ingatlan-nyilvántartási bejegyzése 
+ 
+296. Lehet-e a haszonélvezet tárgya elhasználható dolog?  
+   1. Igen, ekkor a dolog átmegy a haszonélvező tulajdonába 
+   2. Igen, nincsen megkülönböztetés elhasználható és elhasználhatatlan dolog között ebből a szempontból 
+   3. Nem, mert haszonélvezet csak ingatlanon vagy elhasználhatatlan ingón állhat fenn 
+   4. Nem, mert haszonélvezet csak ingatlanon állhat fenn 
+ 
+297. Min alapul a jegyző előtt folyó (possessorius) birtokvédelem?  
+   1. A birtoklás tényén 
+   2. A birtokhoz való jogon 
+   3. Szerződésen 
+   4. A tulajdonjogon 
+ 
+298. Mikor értékesítheti a jogalap nélküli birtokos az általa őrzött dolgot?  
+   1. Soha 
+   2. Ha a jogosult határidőre nem szállítja el  
+   3. Bármikor 
+   4. Ha a jogosult a dolgot határidőre nem szállítja el és elhelyezése aránytalan nehézséggel járna, vagy gyorsan romló dolog a tárgya 
+ 
+299. A használati jog jogosultja milyen mértékig használhatja a dolgot?  
+   1. Korlátozástól mentes mértékig  
+   2. Saját és vele együtt élő családtagjai szükségleteinek mértékéig 
+   3. Saját és hozzátartozói szükségleteinek mértékéig 
+   4. Saját és az általa eltartani köteles személyek szükségleteinek mértékéig 
+ 
+300. Az alábbiak közül melyik minősül a tulajdonos használati joga korlátjának?  
+A)  A tulajdonos használati joga nem korlátozható („teljes dologi jog”). 
+   2. Mások, különösen szomszédjainak szükségtelen zavarása. 
+   3. Terhelési tilalom. 
+   4. Rendes gazdálkodás szerinti eljárás. 
+ 
+301. Mi a találó főkötelessége az alábbiak közül az általános szabályok szerint?  
+   1. A dolgot magánál tartani, és mindent megtenni a tulajdonos felkutatása érdekében. 
+   2. A talált dolgot az illetékes polgármesteri hivatalba beszolgáltatni, vagy visszaadni a tulajdonosnak ill. elvesztőnek, ha személye ismert. 
+   3. A dolgot magánál tartani, állagát megóvni a tulajdonos jelentkezéséig. 
+   4. A dolgot azonnal visszaadni a tulajdonosnak. 
+ 
+302. Mi a zártkörűség elve a dologi jogban?  
+   1. A dologi jogviszony jogosultja mindig pontosan meghatározott 
+   2. Dologi jog csak a törvényben meghatározott típusú lehet 
+   3. A közös tulajdon megszüntetésénél a tulajdonostársak előjogokkal bírnak 
+   4. A dologi jog a vagyonjogon belül élesen elkülönül 
+ 
+303. Megillethet-e haszonélvezet ugyanazon a dolgon egyszerre több személyt?  
+   1. Nem, a haszonélvezet nem osztható meg 
+   2. Csak ha egymással tulajdonközösségben állnak 
+   3. Igen 
+   4. Csak örökléssel való jogszerzés esetén 
+ 
+304. Ki kérheti az ingatlan-nyilvántartási bejegyzés kijavítását?  
+A)  Bárki, hiszen az ingatlan-nyilvántartás nyilvános 
+   2. Csak az illetékes földhivatal vezetője 
+   3. Bárki, aki a téves bejegyzés folytán sérelmet szenvedett 
+   4. Csak az, aki az ingatlan tulajdonosként van feltüntetve 
+ 
+305. Ingók hatósági árverése során, ha a szerző fél rosszhiszemű volt…  
+   1. Tulajdonszerzését e körülmény nem érinti 
+   2. Tulajdont nem szerezhet 
+   3. Tulajdont csak feltételesen szerezhet 
+   4. Tulajdont csak az állam szerezhet 
+ 
+306. Válhat-e birtokossá a cselekvőképtelen?  
+   1. Igen 
+   2. Nem, soha 
+   3. Igen, de csak a törvényes képviselőjével egyetemben 
+   4. Nem, kivéve ha a birtoklás szerződésen alapul 
+ 
+307. Mi a szomszédjog lényege?  
+   1. A tulajdonos köteles tartózkodni a szomszéd szükségtelen zavarásától 
+   2. A tulajdonos követelheti telki szolgalom alapítását 
+   3. A tulajdonos köteles tűrni a szomszéd tulajdonjogának gyakorlását 
+   4. A szomszédok egymással együttműködni kötelesek 
+ 
+308. Ha két telek határvonalán álló fa valamelyik rendeltetésszerű használatát gátolja…  
+   1. A telek tulajdonosa nem távolíthatja el 
+   2. A tulajdonosok szótöbbséggel határoznak 
+   3. Csak egyhangú döntéssel távolítható el 
+   4. A telek tulajdonosa követelheti, hogy közös költségen távolítsák el 
+ 
+309. Kinek a tulajdonában állnak a természetes környezetükben élő halak?  
+   1. A birtokba vevő tulajdonában 
+   2. Az élőhelyükül szolgáló víz tulajdonosáéban, mely természetes vizek esetében az állam 
+   3. Annak tulajdonában, aki azokat, mint gazdátlan javakat elsajátítja 
+   4. Az illetékes önkormányzat tulajdonában 
+ 
+310. Megszerezhető-e a birtok a birtokos tudtán és akaratán kívül?  
+   1. Nem, a megszerzésre irányuló akarat szükséges 
+   2. Nem 
+   3. Igen, a birtoklásra irányuló akarat nem a birtok fogalmi eleme 
+   4. Igen, feltéve hogy a birtoklás jogcím alapján történik 
+ 
+311. Min alapul a petitórius (bírósági) birtokvédelem?  
+A)  A birtoklás tényén 
+   2. Szerződésen 
+   3. Ezt az intézményt nem ismeri a magyar jogrend 
+   4. A birtokláshoz való jogon 
+ 
+312. Mi szerepel a klasszikus tulajdonosi triászban?  
+   1. Birtoklás – használat – hasznok szedése 
+   2. Birtoklás – hasznok szedése – terhek viselése 
+   3. Birtoklás – használat – rendelkezés  
+   4. Használat – rendelkezés – terhek viselése 
+ 
+313. Mit követelhet a rosszhiszemű feldolgozó?  
+   1. Semmit 
+   2. A dolog tulajdonjogát, amennyiben a munka értéke a feldolgozott dolog értékét jelentősen meghaladja 
+   3. Az anyag tulajdonosa térítse meg a gazdagodását, ha igényt tart a dologra 
+   4. Munkája értékének megtérítését 
+ 
+314. Mi iránt folyik az igényper?  
+A)  A tulajdonjog megállapítása. 
+   2. A hatósági árverés teljes megszüntetésére. 
+   3. A birtokjog megállapítása. 
+   4. A dolog végrehajtási eljárásban történő foglalás alóli feloldása és kiadása iránt. 
+ 
+315. Az alábbiak közül mely esetben szűnik meg a telki szolgalom?  
+A)  Ha a jogosult 15 éven át nem gyakorolta.  
+   2. Ha a szolgáló telket tulajdonosa elidegeníti. 
+   3. Ha a jogosult lemond róla. 
+   4. Ha az uralkodó telket az állam javára kisajátítják. 
+ 
+316. Mikor lehet a szerződéssel létesített elidegenítési és terhelési tilalomnak abszolút hatálya?  
+A)  Soha. 
+   2. Ha a felek úgy állapodtak meg, függetlenül attól, hogy azt az ingatlan-nyilvántartásba bejegyezték-e. 
+   3. Ha az ingatlan-nyilvántartásba bejegyezték. 
+   4. Ha a jóhiszemű szerző fél visszterhesen szerzett, de a tilalom nem volt bejegyezve az ingatlan-nyilvántartásba. 
+ 
+317. Mely irányadó szempont(ok) alapján kell rendezni a mezei nyulak által a répaföldeken okozott károk megtérítését☺? 
+   1. Lex Répássy 
+   2. reparáció 
+   3. réparáció (!) 
+   4. répa és ráció 
+ 
+318. Közös tulajdon esetén az egész dolog feletti rendelkezéshez…  
+A)  A tulajdonostársak egyszerű szótöbbségi határozata szükséges 
+   2. A tulajdonostársak egyhangú határozata szükséges 
+   3. A tulajdonostársak kétharmados többségű határozata szükséges 
+   4. Közokirati forma szükséges 
+ 
+319. Kinek a tulajdonában állnak a föld méhének kincsei?  
+   1. A föld tulajdonosának tulajdonában 
+   2. A föld jogos birtokosának tulajdonában 
+   3. Az állam tulajdonában 
+   4. A találó tulajdonában 
+ 
+320. Hogyan döntenek a tulajdonostársak a rendes gazdálkodás körét meg nem haladó kiadásokról?  
+   1. Egyhangúlag 
+   2. Bármely tulajdonostárs követelheti költségeinek arányos megtérítését 
+   3. Kétharmados többséggel 
+   4. Egyszerű szótöbbséggel 
+ 
+321. Mit követelhet a szomszéd a jóhiszeműen túlépítő földtulajdonostól?  
+   1. A túlépítő saját földjét és az épületet a gazdagodás megtérítésével bocsássa tulajdonába 
+   2. Az épületet bontsa le 
+   3. Az épület használatát engedje át 
+   4. A szomszéd egész földjét vásárolja meg a jóhiszeműen túlépítő földtulajdonos 
+ 
+322. Kisajátítható-e az ingatlan egy része?  
+   1. Nem 
+   2. Igen, ha a tulajdonos bizonyos feltételek mellett nem kéri az egész kisajátítását  
+   3. Igen, ha értéke ezáltal nem csökken számottevően 
+   4. Igen, ha közös tulajdon áll fenn, és ezáltal a tulajdonelvonás csak az egyik 
+tulajdonostársat érinti 
+ 
+323. Melyik esetben szerez tulajdont a jóhiszemű szerző fél akkor is, ha az átruházó nem volt tulajdonos?  
+   1. Ha kereskedelmi forgalmon kívül és visszterhesen szerzi meg. 
+   2. Ha kereskedelmi forgalomban és ingyenesen szerzi meg. 
+   3. Ha kereskedelmi forgalomban és visszterhesen szerzi meg. 
+   4. Ha az átruházó fél is jóhiszemű volt és ingyenesen szerzi meg. 
+ 
+324. Gyakorolhatja-e a tulajdonos a hasznok szedésének jogát a haszonélvezettel terhelt dolgon?  
+   1. Igen, hiszen ez a tulajdonjog részjogosítványa 
+   2. Nem, mert a haszonélvezet ezt minden esetben kizárja 
+   3. Igen, de csak a hasznok értékének 50%-áig, mert a jog megoszlik a haszonélvező és a tulajdonos között 
+   4. Igen, de csak ha a haszonélvező nem él e jogával 
+ 
+325. Milyen módon szüntetheti meg a bíróság a közös tulajdont?  
+   1. Bármilyen módon 
+   2. Csak az összes tulajdonostárs által elfogadott módon 
+   3. Csak a Ptk-ban meghatározott sorrendben és módokon   
+   4. Csak a közös tulajdon tárgyának értékesítésével és a vételár felosztásával 
+ 
+326. Megszüntetheti-e a bíróság a közös tulajdont természetbeni megosztással?  
+   1. Igen, de csak ha az összes tulajdonostárs hozzájárul  
+   2. Nem 
+   3. Igen   
+   4. Nem, csak a közös tulajdon tárgyának értékesítésével és a vételár felosztásával 
+ 
+327. Mi NEM minősül dolognak az alábbiak közül?  
+   1. ingatlan 
+   2. méhraj 
+   3. dematerializált részvény  
+   4. emberi test egésze 
+ 
+328. Mi a tartozék?  
+   1. A leszedett gyümölcs 
+   2. Ami osztozik a fődolog jogi sorsában 
+   3. Ami nem alkotórész, de a dolog rendeltetésszerű használatához szükséges 
+   4. Amelyre nézve csak korlátozott tulajdon állhat fenn 
+ 
+329. Mi NEM szomszédjog az alábbiak közül?  
+A)  A szükségbeli út  
+   2. A kerítés joga 
+   3. Az állat befogásának joga 
+   4. A belépés joga 
+ 
+330. Mi NEM tulajdon szerzésmód az alábbiak közül?  
+   1. Túlépítés  
+   2. Beépítés 
+   3. Ráépítés 
+   4. Feldolgozás 
+ 
+331. Mi NEM tulajdon szerzésmód az alábbiak közül?  
+   1. Öröklés 
+   2. Beépítés 
+   3. Telki szolgalom 
+   4. Egyesítés 
+ 
+332. Mi NEM tulajdon szerzésmód az alábbiak közül?  
+   1. Egyesítés 
+   2. Növedék 
+   3. Kisajátítás 
+   4. Túlépítés  
+ 
+333. Melyek a tulajdonos legfontosabb jogai? 
+   1. rendeltetésszerű joggyakorlás 
+   2. elidegenítheti a dolgot, s megterhelheti 
+   3. használhatja, birtokolhatja a dolgot, rendelkezhet vele, s megilleti a birtokvédelem 
+   4. mindent megtehet a dologgal 
+ 
+334. Mi a szomszédjog általános szabálya (a dolog használatának általános magánjogi korlátja)? 
+   1. a tulajdonos beléphet a szomszédjai földjére, feltéve, hogy ez szükséges 
+   2. nem lehet rosszhiszeműen birtokolni 
+   3. a tulajdonos a dolog használata során nem zavarhatja szükségtelenül szomszédait, sem másokat, s jogaikat gyakorlását nem veszélyeztetheti 
+   4. nem lehet a szomszéd telkére túlépíteni 
+ 
+335. Melyek a tulajdonos legfontosabb kötelezettségei? 
+   1. viseli a terheket és a kárveszélyt 
+   2. nem semmisítheti meg a dolgát, s nem hagyhatja el 
+   3. adót és illetéket köteles fizetni 
+   4. köteles nyilvántartásba vetetni a tulajdonjogát 
+ 
+336. Mely esetben van a közös tulajdonostársaknak elővételi joguk a tulajdonostárs tulajdoni hányadára? 
+   1. minden esetben 
+   2. kisajátítás esetén 
+   3. ha külső személynek kívánják elidegeníteni, azonos feltételek mellett 
+   4. ha a bíróság megszünteti a közös tulajdont 
+ 
+337. A haszonélvező…? 
+   1. viseli az ingatlan teljes felújítási költségeit 
+   2. hitelt vehet fel az ingatlanra 
+   3. használhatja, birtokolhatja, s megilleti a birtokvédelem 
+   4. használhatja, birtokolhatja a dolgot, rendelkezhet vele 
+ 
+338. Melyek a birtokvédelem eszközei? 
+   1. önhatalom, jegyző előtti birtokvédelem 
+   2. bírósági birtokvédelem 
+   3. kártérítést lehet kérni a bíróságtól 
+   4. önhatalom, jegyző előtti és bírósági birtokvédelem 
+ 
+339. Mennyi az elbirtoklási idő? 
+   1. egységesen 10 év 
+   2. elévülési jellegű, 5 év 
+   3. ingatlanoknál 15 év, ingóknál 10 év 
+   4. függ az ingó és az ingatlan értékétől 
+ 
+340. Van-e különbség a tulajdon- és a birtokvédelem között? 
+   1. nincs 
+   2. a birtokvédelemnél a birtoklás tényét vagy a birtokláshoz való jogot, a tulajdonvédelemnél a tulajdonhoz való jogot védik 
+   3. a birtokvédelem csak jegyző előtt eljárásban, a tulajdonvédelem csak bírói úton lehetséges 
+   4. birtokvédelem esetén nincs önhatalom 
+ 
+          
+KÖTELMI JOG (Ptk.: Hatodik Könyv) 
+ 
+ 
+ 
+341. Mikor hatályosul a távollevők között tett jognyilatkozat?  
+   1. a jognyilatkozat megtételével 
+   2. a jognyilatkozat címzetthez való megérkezésével 
+   3. a jognyilatkozat címzett általi tudomásulvételével 
+   4. a jognyilatkozat címzett általi elfogadásával 
+ 
+342. Mi NEM szűnteti meg a kötelmet? 
+   1. a kötelezett halála, személyesen teljesítendő szolgáltatás esetén 
+   2. a jogosult halála, ha kifejezetten részére kellett nyújtani a szolgáltatást 
+   3. a teljesítés megtagadása 
+   4. a felek kötelem megszüntetésére irányuló megállapodása 
+ 
+343. Az általános meghatalmazás hatályát veszti…  
+   1. a jognyilatkozat megtételével 
+   2. a meghatalmazás adását követő 1 év elmúltával 
+   3. a meghatalmazás adását követő 3 év elmúltával  
+   4. a meghatalmazás adását követő 5 év elmúltával 
+ 
+344. Mi a tartozáselismerés joghatása? 
+   1. a kötelezettet terheli annak bizonyítása, hogy tartozása nem áll fenn 
+   2. a kötelezett teljesítése esedékessé válik 
+   3. a kötelezett késedelembe esik 
+   4. a jogosult késedelmi kamat követelhet 
+ 
+345. Mi a kötelezetti egyetemlegesség? 
+   1. ha több kötelezett esetén, minden kötelezett az oszthatatlan szolgáltatás egészével tartozik 
+   2. ha több jogosult esetén, bármelyik jogosult az egész szolgáltatást követelheti 
+   3. ha egy szolgáltatást többen követelnek 
+   4. ha egy oszthatatlan szolgáltatást többen, egyetemlegesen követelnek 
+ 
+346. Mi a jogosulti egyetemlegesség? 
+   1. ha több kötelezett esetén, minden kötelezett az egész szolgáltatással tartozik 
+   2. ha több jogosult esetén, bármelyik jogosult az egész szolgáltatást követelheti 
+   3. ha egy oszthatatlan szolgáltatással többen tartoznak 
+   4. ha egy oszthatatlan szolgáltatásért többen, egyetemlegesen felelnek 
+ 
+347. Mi az osztott kötelem? 
+   1. ha egy osztható szolgáltatással többen tartoznak, illetve többen követelhetik 
+   2. ha egy oszthatatlan szolgáltatást többen követelnek 
+   3. ha egy szolgáltatásért többen, egyetemlegesen felelnek 
+   4. ha egy szolgáltatásért egy kötelezett felel egy jogosulttal szemben 
+ 
+348. Az álképviselet körében tett jognyilatkozat … 
+   1. semmis 
+   2. megtámadható 
+   3. a képviselt jóváhagyásával válthat ki joghatást 
+   4. érvénytelen 
+ 
+349. Mi az elévülés megszakadásának jogkövetkezménye? 
+   1. az addig letelt idő nem számít és az ”akadály” megszűnte után újból kezdődik az elévülés 
+   2. az addig letelt idő nem számít és a követelést elévültnek kell tekinteni 
+   3. az addig letelt idő beszámít és az ”akadály” megszűnte után az elévülés tovább folytatódik 
+   4. az addig letelt idő beszámít, de a követelést elévültnek kell tekinteni 
+ 
+350. Mi az elévülés nyugvásának jogkövetkezménye? 
+   1. az addig letelt idő nem számít és az ”akadály” megszűnte után újból kezdődik az elévülés 
+   2. az addig letelt idő nem számít és a követelést elévültnek kell tekinteni 
+   3. az addig letelt idő beszámít és az ”akadály” megszűnte után az elévülés tovább folytatódik 
+   4. az addig letelt idő beszámít, de a követelést elévültnek kell tekinteni 
+ 
+351. Van-e különbség a megbízás és a meghatalmazás között?  
+   1. mivel mindkettőhöz elfogadás szükséges, így nem számottevő a különbség 
+   2. nincs a kettő között különbség, hiszen a meghatalmazás általában magában foglalja a megbízást 
+   3. mindkettő szerződés, ezért nincs 
+   4. a megbízás szerződés, a meghatalmazás egyoldalú jogügylet 
+ 
+352. Milyen típusú jognyilatkozat – főszabály szerint - a képviseleti jogot létrehozó meghatalmazás? 
+   1. kétoldalú, ingyenes 
+   2. kétoldalú, visszterhes 
+   3. egyoldalú, címzett 
+   4. egyoldalú, nem címzett 
+ 
+353. A meghatalmazás olyan címzett jognyilatkozat, … 
+   1. amely elfogadáshoz kötött 
+   2. amely eljárásra kötelezi a meghatalmazottat 
+   3. amely arra jogosítja a meghatalmazottat, hogy jognyilatkozatot tegyen vagy elfogadjon a képviselt helyett 
+   4. amelynek teljesítéséért ellenszolgáltatás jár 
+ 
+354. A hallgatás, vagyis a nyilatkozattétel elmulasztása … 
+   1. joghatást vált ki, ha a felek abban külön megállapodtak 
+   2. önmagában is beleegyezést jelent 
+   3. mindig ráutaló magatartásnak minősül 
+   4. még jogszabályi rendelkezés alapján sem válthat ki joghatást 
+ 
+355. Mi lehet a bírói letéttel teljesített szolgáltatás tárgya? 
+   1. bármi 
+   2. csak pénz 
+   3. csak helyettesíthető dolog 
+   4. pénz, értékpapír, okirat 
+ 
+356. Mi a bírói letéttel történő teljesítés lényege? 
+   1. a jogosult elkerüli a késedelembe esést 
+   2. a jogosult érvényesítheti visszatartási jogát 
+   3. a kötelezett elkerüli a késedelembe esést 
+   4. a kötelezett érvényesítheti a visszatartási jogát 
+ 
+357. Mit jelöl meg a Ptk – főszabályként – a teljesítés helyének? 
+   1. a jogosult lakóhelyét/székhelyét 
+   2. a kötelezett lakóhelyét/székhelyét 
+   3. a szerződéskötés helyét 
+   4. a jogosult ideiglenes tartózkodási helyét 
+ 
+358. Mit jelöl meg a Ptk – főszabályként – a pénztartozás teljesítési helyének? 
+   1. a jogosult lakóhelyét/székhelyét 
+   2. a kötelezett lakóhelyét/székhelyét 
+   3. a szerződéskötés helyét 
+   4. a jogosult ideiglenes tartózkodási helyét 
+ 
+359. A jogosult a pénztartozás teljesítési idő előtt felajánlott teljesítését… 
+   1. nem köteles elfogadni 
+   2. nem köteles elfogadni, ha az lényeges jogi érdekét sérti 
+   3. nem köteles elfogadni, kivéve ha banki átutalás útján teljesítik 
+   4. köteles elfogadni 
+ 
+360. Kit illet meg a beszámítás joga? 
+   1. a kezest 
+   2. csak a kötelezettet 
+   3. csak a jogosultat 
+   4. a kötelezettet és a jogosultat egyaránt 
+ 
+361. Milyen szolgáltatással szemben NINCS helye a beszámításnak? 
+   1. tartásdíjköveteléssel szemben 
+   2. tartásdíj követeléssel szemben, a túlfizetés esetét kivéve 
+   3. természetbeni szolgáltatással szemben 
+   4. természetbeni szolgáltatással szemben, a fajlagos szolgáltatás esetét kivéve 
+ 
+362. Ki volt Marton Géza☺? 
+   1. Miltiádész hírnöke, aki a marathóni csata után megvitte Athénba a győzelem hírét, majd holtan esett össze 
+   2. I. (Nagy) Dareiosz hírnöke, aki a marathóni csata után megvitte Perzsiába a vereség hírét, amiért azonnal kivégezték 
+   3. az első olyan hivatásos sportoló, akinek a halála felhívta a figyelmet a tiltott teljesítményfokozó szerek elleni küzdelem fontosságára D) Eörsi Mátyás (!) vetélytársa (!) 
+ 
+363. Miként alakul a teljesítési határidő az életfenntartásra fordított szerződéseknél (pl. 
+tartásdíj, életjáradék)? 
+   4. a teljesítés adott időszakra nézve előre esedékes 
+   5. a teljesítés adott időszakra nézve utólag esedékes 
+   6. a teljesítés 1 évre eső összege előre és egy összegben esedékes 
+   7. a teljesítés 1 évre eső összege utólag és egy összegben esedékes 
+ 
+364. Ha az ajánlattevőhöz a címzettől az ajánlattól lényeges kérdésben eltérő tartalmú elfogadó nyilatkozat érkezik, akkor …  
+   1. a szerződés az eltérő tartalmú elfogadó nyilatkozat alapján jön létre 
+   2. az elfogadó nyilatkozat új ajánlatnak minősül, és az ajánlati kötöttség terhe megfordul 
+   3. a felek a bíróságtól kérhetik a szerződés tartalmának megállapítását 
+   4. a szerződés érvénytelen, de feléled az ügyész közérdekű keresetindítási joga 
+ 
+365. Előszerződés megkötését követően a szerződés megkötését megtagadhatja… 
+   1. kizárólag a jogosult, ha bizonyítja, hogy a kötelezett a teljesítést megtagadta 
+   2. kizárólag a kötelezett, ha bizonyítja, hogy a jogosult a felajánlott teljesítést nem fogadja el 
+   3. bármelyik fél, ha bizonyítja, hogy működési körén kívül eső és elháríthatatlan körülmény következett be, amely lényeges jogi érdekeit sérti 
+   4. bármelyik fél, ha bizonyítja, hogy az előszerződés megkötését követően előre nem látható, a rendes üzleti kockázat körén kívül eső olyan körülmény következett be, amely lényeges jogi érdekét sérti 
+ 
+366. Melyik a megtámadhatósági ok az alábbiak közül a NEM fogyasztói szerződések körében? 
+   1. színlelés 
+   2. jogszabályba ütközés 
+   3. jogszabály megkerülése 
+   4. tisztességtelen általános szerződési feltétel 
+ 
+367. Melyik NEM minősül az alábbiak közül az objektív értékaránytalanság (ti. feltűnő értékaránytalansággal kötött szerződés) fogalmi elemének? 
+   1. egyik felet sem vezeti ingyenes juttatás szándék 
+   2. feltűnően nagy az aránytalanság a szolgáltatás és az ellenszolgáltatás között 
+   3. az egyik szerződő fél hátrányos (pl. gazdasági) helyzetét kihasználva kötik 
+   4. a szolgáltatás és az ellenszolgáltatás közötti aránytalanság a szerződés megkötésekor áll fenn 
+ 
+368. Melyik NEM minősül az alábbiak közül a szubjektív értékaránytalanság (ti. uzsorás szerződés) fogalmi elemének? 
+   1. egyik felet sem vezeti ingyenes juttatás szándék 
+   2. feltűnően nagy az aránytalanság a szolgáltatás és az ellenszolgáltatás között 
+   3. az egyik szerződő fél hátrányos (pl. gazdasági) helyzetét kihasználva kötik 
+   4. a szolgáltatás és az ellenszolgáltatás közötti aránytalanság a szerződés megkötésekor áll fenn 
+ 
+369. Az időhatározástól függő szolgáltatás esetén, az időhatározásnak milyen követelményeknek kell eleget tennie? 
+   1. jövőbeli és bizonytalan 
+   2. jövőbeli és biztos 
+   3. jövőbeli és ismétlődő 
+   4. jövőbeli és szokásos 
+ 
+370. A feltételtől függő szolgáltatás esetén, a feltételnek milyen követelményeknek kell eleget tennie? 
+   1. jövőbeli és bizonytalan 
+   2. jövőbeli és biztos 
+   3. jövőbeli és ismétlődő 
+   4. jövőbeli és szokásos 
+ 
+371. Mi NEM igaz a fedezetelvonó szerződésre? 
+   1. a harmadik személy irányában, aki igényének kielégítési alapját vonja el, semmis 
+   2. a harmadik személy igényének kielégítési alapját vonja el 
+   3. a rosszhiszeműséget vélelmezzük, ha a fedezetelvonó szerződést hozzátartozóval kötik
+   4. az ingyenességet vélelmezzük, ha a fedezetelvonó szerződést hozzátartozóval kötik 
+ 
+372. Mi a felmondás lényege? 
+   1. az egyik fél visszamenőleges hatállyal, egyoldalú nyilatkozattal szünteti meg a szerződést 
+   2. az egyik fél jövőre nézve (ex nunc hatállyal), egyoldalú nyilatkozattal szünteti meg a szerződést 
+   3. a felek visszamenőleges hatállyal, kétoldalú nyilatkozattal szüntetik meg a szerződést 
+   4. a felek jövőre nézve (ex nunc hatállyal), kétoldalú nyilatkozattal szüntetik meg a szerződést 
+ 
+373. Mi az elállás lényege?  
+   1. az egyik fél visszamenőleges hatállyal, egyoldalú nyilatkozattal szünteti meg a szerződést 
+   2. az egyik fél a jövőre nézve, egyoldalú nyilatkozattal szünteti meg a szerződést 
+   3. a felek visszamenőleges hatállyal, kétoldalú nyilatkozattal szüntetik meg a szerződést
+   4. a felek jövőre nézve, kétoldalú nyilatkozattal szüntetik meg a szerződést 
+ 
+374. Milyen szerződésszegést nem szabályoz a Ptk.? 
+   1. előzetes szerződésszegést 
+   2. közbenső szerződésszegést 
+   3. részleges szerződésszegést 
+   4. súlyos szerződésszegést 
+ 
+375. Mit NEM kell bizonyítani a szerződésszegéssel okozott kárért való felelősség alóli mentesülés érdekében? 
+   1. a szerződésszegő magatartása nem volt felróható 
+   2. a szerződésszegést ellenőrzési körén kívül eső körülmény idézte elő 
+   3. a szerződésszegést előre nem látható körülmény idézte elő 
+   4. a kár elhárítása nem volt elvárható 
+ 
+376. Mennyi idő áll a jogosult rendelkezésére főszabályként, hogy kellékszavatossági jogait érvényesítse (elévülési határidő a NEM fogyasztói szerződések esetén)? 
+   1. 2 hónap 
+   2. 6 hónap 
+   3. 12 hónap 
+   4. 24 hónap 
+ 
+377. Meddig kell a teljesítéstől számítva vélelmezni a hibás teljesítést fogyasztó és vállalkozó közötti szerződés esetén? 
+   1. 1 hónap 
+   2. 3 hónap 
+   3. 6 hónap 
+   4. 12 hónap 
+ 
+378. Melyek a Ptk.-ban szabályozott termékszavatossági igények? 
+   1. kijavítás, kicserélés, árleszállítás, elállás 
+   2. kijavítás, kicserélés, árleszállítás 
+   3. kijavítás, kicserélés, elállás 
+   4. kijavítás, kicserélés 
+ 
+379. Az alábbiak közül melyen alapulhat a jótállás? 
+   1. szerződésen és egyoldalú jognyilatkozaton 
+   2. szerződésen és hatósági rendelkezésen 
+   3. szerződésen és jogszabályon 
+   4. jogszabályon vagy egyoldalú jognyilatkozatob
+ 
+380. Kit terhelnek a kellékszavatosság alapján fennálló kötelezettség teljesítésével kapcsolatos költségek? 
+   1. főszabályként a jogosultat 
+   2. főszabályként a kötelezettet 
+   3. a jogosultat és a kötelezettet egyenlő arányban 
+   4. minden esetben a bíróság határozza meg a költségek viselésének arányát 
+ 
+381. Mi a különbség a foglaló és az előleg között? 
+   1. a szerződés meghiúsulásakor az előleg mindig visszajár, de a foglaló nem 
+   2. az előleg a vételárba beszámít, de a foglaló soha 
+   3. az előleg mindig megelőzi a teljesítést, de a foglaló nem 
+   4. a foglaló csak pénzben teljesíthető, de az előleg természetben is 
+ 
+382. Át kell-e adni a foglalót a másik félnek? 
+   1. igen 
+   2. igen, de csak akkor, ha abban a felek kifejezetten megállapodnak 
+   3. igen, de csak akkor, ha tárgya nem pénz, hanem más dolog 
+   4. nem 
+ 
+383. Visszakövetelhető-e a foglaló a foglalót kapó másik féltől, ha a szerződés ezen másik félnek felróhatóan nem jött létre?  
+   1. igen, de csak az igazolt és szükséges költségek mértékéig 
+   2. igen, de csak akkor, ha az átadott foglaló pénz volt 
+   3. igen, de csak az átadott foglaló értékének megfelelő összeg erejéig 
+   4. igen, kétszeresen 
+ 
+384. Át kell-e adni a kötbért a szerződés megkötésekor? 
+   1. igen 
+   2. igen, de csak akkor, ha tárgya pénz 
+   3. igen, de csak akkor, ha tárgya nem pénz, hanem más dolog 
+   4. nem 
+ 
+385. Mi a megszüntető szerződés lényege? 
+   1. a felek visszamenőleges hatállyal, egyoldalú nyilatkozattal szüntetik meg a szerződést 
+   2. a felek jövőre nézve (ex nunc hatállyal), egyoldalú nyilatkozattal szüntetik meg a szerződést 
+   3. a felek visszamenőleges hatállyal, kétoldalú nyilatkozattal szüntetik meg a szerződést 
+   4. a felek jövőre nézve (ex nunc hatállyal), kétoldalú nyilatkozattal szüntetik meg a szerződést 
+ 
+386. Mi a felbontó szerződés lényege? 
+   1. a felek visszamenőleges hatállyal, egyoldalú nyilatkozattal szüntetik meg a szerződést 
+   2. a felek jövőre nézve (ex nunc hatállyal), egyoldalú nyilatkozattal szüntetik meg a szerződést 
+   3. a felek visszamenőleges hatállyal, kétoldalú nyilatkozattal szüntetik meg a szerződést 
+   4. a felek jövőre nézve (ex nunc hatállyal), kétoldalú nyilatkozattal szüntetik meg a szerződést 
+ 
+387. A megtekintésre vétel olyan adásvételi szerződés, amelynek hatálya ...  
+   1. az eladótól függ  
+   2. a dolog megtekintésének időpontjától függ  
+   3. a szerződés megkötésének időpontjától függ  
+   4. a vevő nyilatkozatától függ  
+ 
+388. Ingatlan adásvételének érvényességéhez milyen alakiság szükséges?  
+   1. írásba foglalás  
+   2. közokirati forma  
+   3. közjegyzői okirati forma  
+   4. nem kell alakiság  
+ 
+389. Részletvétel esetén ki viseli a vevőnek átadott dolog elpusztulásának veszélyét?  
+   1. az eladó  
+   2. együttesen viselik  
+   3. a vevő, de csak ingatlan esetében
+   4. az eladó, ha fenntartotta tulajdonjogát  
+ 
+390. Hogyan jön létre az ajándékozási szerződés?  
+A)  a dolog birtokának átruházásával  
+   2. a dolog birtokba vételével  
+   3. a felek megállapodásával  
+   4. az ajándékozó akaratnyilvánításával  
+ 
+391. Milyen         alakszerűségi         követelményeknek         kell         megfelelnie         az         ajándékozási szerződésnek?  
+   1. nincs alakszerűségi követelmény  
+   2. ingónál nincs előírás, ingatlannál írásbeli alak szükséges  
+   3. írásbeli alak kell  
+   4. ingónál nincs előírás, ingatlannál pedig nem írásbeli alak, csak ingatlan-nyilvántartási bejegyzés szükséges  
+ 
+392. Vállalkozási szerződés esetén, ha a megrendelő figyelmeztetés ellenére is fenntartja a szakszerűtlen utasítást…  
+   1. a vállalkozó érdekmúlás bizonyításával elállhat a szerződéstől  
+   2. a vállalkozó köteles elállni  
+   3. a vállalkozó a szerződéstől elállhat, vagy a megrendelő kockázatára végrehajthatja az utasítást  
+   4. a megrendelő kockázatára elállhat a szerződéstől  
+ 
+393. Vállalkozási szerződés esetén, ha a mű előállításához valamilyen anyag szükséges… 
+A)  a vállalkozó kérheti a megrendelőtől, ha maga nem rendelkezik vele 
+   2. a vállalkozó köteles azt beszerezni 
+   3. a vállalkozó a szerződéstől elállhat 
+   4. a megrendelő köteles azt a szerződés megkötésekor szolgáltatni  
+ 
+394. Vállalkozási szerződés teljesítése esetén, ha a lehetetlenné válás oka a megrendelő érdekkörében merült fel…  
+   1. a vállalkozót megilleti a díj, de a megrendelő levonhatja belőle azt az összeget, amelyet a vállalkozó megtakarított, vagy amit másutt kereshetett volna  
+   2. a vállalkozót az elvégzett munka fejében a díj arányos része illeti meg  
+   3. a vállalkozót a költségei fejében a díj arányos része illeti meg  
+   4. a vállalkozót a díj egésze megilleti  
+ 
+395. Van-e különbség a megbízás és a meghatalmazás között?  
+   1. mivel mindkettőhöz elfogadás szükséges, így nem számottevő a különbség  
+   2. nincs a kettő között különbség, hiszen a meghatalmazás általában magában foglalja a megbízást  
+   3. mindkettő szerződés, ezért nincs  
+   4. a megbízás szerződés, a meghatalmazás egyoldalú jogügylet  
+ 
+396. Kinek a nevében, illetve kinek a javára fejt ki tevékenységet a képviseleti jogkörrel felruházott megbízott?  
+   1. saját nevében, saját javára  
+   2. más nevében, saját javára  
+   3. más nevében, más javára  
+   4. saját nevében, más javára  
+ 
+397. Kinek a nevében, illetve kinek a javára fejt ki tevékenységet a bizományos?  
+   1. saját nevében, saját javára  
+   2. más nevében, saját javára  
+   3. más nevében, más javára  
+   4. saját nevében, más javára  
+ 
+398. Mi lehet a kölcsönszerződés tárgya?  
+   1. bármilyen dolog  
+   2. bármilyen dolog vagy jogosultság  
+   3. pénz vagy helyettesíthető dolog  
+   4. pénz  
+ 
+399. Ki jogosult kárbiztosítási szerződés megkötésére?  
+A)  csak aki a biztosítási esemény elkerülésében érdekelt 
+   2. mindenki, aki az érdekelt személy javára szerződik 
+   3. csak az érdekelt személyek 
+   4. csak aki a biztosítási esemény bekövetkeztében érdekelt 
+ 
+400. Mit tehet a bérlő, ha a bérelt dologra 3. személynek olyan joga áll fenn, ami a bérelt dolog használatában megakadályozza?  
+   1. csak tehermentesítést követelhet  
+   2. felmondhat 
+   3. kártérítést követelhet  
+   4. elállhat  
+ 
+401. Mi NEM jellemző az alábbiak közül a letétre?  
+   1. előzetes díjfizetés  
+   2. személyes őrzési kötelezettség  
+   3. általános tájékoztatási kötelezettség  
+   4. a szükséges költségek megtérítése az ingyenes letéti szerződés esetén  
+ 
+402. Felelősségbiztosítási szerződés alapján a biztosított követelheti a biztosítótól, hogy… 
+   1. térítse meg keletkezett kárát 
+   2. mentesítse őt olyan kár megtérítése alól, amelyre jogszabály alapján köteles  
+   3. neki teljesítsen, hogy a károsult követelését ő egyenlíthesse ki 
+   4. a szerződésben meghatározott biztosítási összeget fizesse meg 
+ 
+403. Mikor lehet megállapítani a közigazgatási jogkörben okozott kárért való felelősséget? 
+   1. ha a kárt okozó, közhatalmi jogkört gyakorló személy magatartása szándékos volt 
+   2. ha a kárt okozó közigazgatási határozat ügyészségi jogkörben nem orvosolható 
+   3. ha a kár rendes jogorvoslattal, továbbá a közigazgatási határozat bírósági felülvizsgálata iránti eljárásban nem volt elhárítható 
+   4. ha a kárt okozó, közhatalmi jogkör gyakorlója jogi személy 
+ 
+404. Milyen szabályok szerint felel a veszélyes állat tartója a veszélyes állat által másnak okozott károkért?  
+   1. a deliktuális felelősség általános szabályai szerint 
+   2. a veszélyes üzemi felelősség alapján 
+   3. az abszolút felelősség szabályai szerint 
+   4. a vadászható állat által okozott károkért való felelősség szabályai alapján 
+ 
+405. Mentesül a veszélyes üzemi felelősség alól, aki bizonyítja, hogy… 
+   1. a kárt a veszélyes üzem tevékenységi körén kívül eső elháríthatatlan ok idézte elő 
+   2. a kárt a veszélyes üzem tevékenységi körén belül eső elháríthatatlan ok idézte elő 
+   3. a kárt nem lehetett elhárítani 
+   4. a károkozás neki fel nem róható okból következett be 
+ 
+406. A veszélyes üzemi felelősségből eredő kártérítési követelések elévülési ideje… 
+   1. 6 hónap 
+   2. 1 év 
+   3. 3 év 
+   4. 5 év 
+ 
+407. Mit jelent a hipotézis☺? 
+   1. egy ismert filozófiai és gondolati rendszer továbbfejlesztése (ti.: tézis – antitézis – hipotézis) 
+   2. a hipotézis: tényállás, ami tényálláselemekből áll; ezeket tényállás elemeknek hívjuk (!) 
+   3. a fogtechnikusok által használt kifejezés, amely a „híd” és a „protézis” szavak összevegyítéséből ered 
+   4. Hányszor kell még mondanom, hogy én CSAK FRANCIÁUL tudok! 
+ 
+408. Milyen szabályok szerint felel az állat tartója az állattartás körében okozott károkért? 
+   1. a deliktuális felelősség általános szabályai szerint, kivéve a veszélyes állat tartóját 
+   2. a veszélyes üzemi felelősség alapján 
+   3. a vadászható állat által okozott károkért való felelősség szabályai alapján 
+   4. az abszolút felelősség szabályai szerint 
+ 
+409. Lehet-e szerződésben előre korlátozni a szándékosan okozott kárért való felelősséget? 
+   1. nem, csak a törvényben taxatíve felsorolt esetekben lehet a felelősséget előre korlátozni 
+   2. nem, a Ptk. ennek érvényességét kizárja 
+   3. igen, de csak ha az nem veszélyezteti az emberi életet 
+   4. igen, de csak a károsult szándékos közrehatása esetén 
+ 
+410. Mikor mentesülhet a felelősség alól a vétőképtelen károkozó gondozója? 
+   1. ha bizonyítja, hogy a károkozásra a vétőképtelen olyan magatartására vezethető vissza, amely a nevelés és felügyelet körén kívül eső, elháríthatatlan körülmény 
+   2. ha bizonyítja, hogy a nevelés és a felügyelet ellátásával kapcsolatban úgy járt el, ahogy az az adott helyzetben általában elvárható 
+   3. ha bizonyítja, hogy a kárt kizárólag a vétőképtelen magatartása idézte elő 
+   4. soha, mert minden esetben felelnie kell nevelésére és felügyeletére bízott vétőképtelen károkozásáért 
+ 
+411. Főszabályként hogyan kell a kárt megtéríteni? 
+   1. természetben 
+   2. pénzben 
+   3. egy összegben 
+   4. járadékként 
+ 
+412. Milyen szabályokat kell alkalmazni a bírósági, ügyészségi jogkörben okozott kárért való felelősségre? 
+   1. ha jogszabály másként nem rendeli, a veszélyes üzemi felelősség szabályait 
+   2. ha jogszabály másként nem rendeli, az alkalmazott károkozásáért való felelősségi szabályokat 
+   3. ha jogszabály másként nem rendeli, a megbízott károkozásáért való felelősségi szabályokat 
+   4. a közigazgatási jogkörben okozott kárért való felelősségi szabályokat kell megfelelően alkalmazni 
+ 
+413. Mi jellemzi a Ptk. alapján a károsult kárelhárítási kötelezettségét az alábbiak közül? 
+ A) ennek érdekében úgy kell eljárnia, ahogy az az adott helyzetben általában elvárható 
+   2. ennek érdekében a rosszhiszemű személlyel nem köteles együttműködni 
+   3. ennek érdekében a károkozót minden károkozási tevékenységében akadályoznia kell 
+   4. ennek érdekében úgy kell eljárnia, ahogy az az adott helyzetben tőle elvárható 
+ 
+414. Ki felel a lakás ablakából kidobott, kiejtett tárgy által okozott kárért? 
+      1. a lakóközösség 
+      2. a lakás használója vagy bérlője, aki lehet a lakás tulajdonosa is 
+      3. a lakás tulajdonosa 
+      4. az önkormányzat 
+ 
+415. Ki felel az alkalmazott által a foglalkoztatására irányuló jogviszonnyal összefüggésben harmadik személynek okozott kárért? 
+   1. ő maga 
+   2. a felettese 
+   3. a helyettese 
+   4. a munkáltatója 
+ 
+416. Mely esetben NEM felelős annak a személynek a magatartásáért a megbízott, akit azért vett igénybe, mert a megbízott károsodástól való megóvásához szükséges volt?  
+   1. ha bizonyítja, hogy kiválasztása, utasításokkal való ellátása és ellenőrzése terén úgy járt el, ahogy az adott helyzetben általában elvárható 
+   2. ha bizonyítja, hogy úgy járt el, ahogy az tőle elvárható 
+   3. ha bizonyítja, hogy úgy járt el, ahogy az általában elvárható 
+   4. ha bizonyítja, hogy úgy járt el, ahogy az az adott helyzetben elvárható 
+ 
+417. Mikor válik esedékessé a kártérítés? 
+A) a kártérítési kereset benyújtásakor 
+   2. a károsodás bekövetkeztekor 
+   3. a károkozó magatartásának megkezdésekor 
+   4. az igénynek helyt adó bírósági határozat jogerőre emelkedésekor 
+ 
+418. Mikor kötelezhető a károkozó általános kártérítés megfizetésére? 
+A) kizárólag személyiséget ért károkozás esetén 
+   2. kizárólag kontraktuális károkozás esetén 
+   3. kizárólag deliktuális károkozás esetén 
+   4. kizárólag nem megállapítható mértékű, vagyoni károkozás esetén 
+ 
+419. Mi NEM zárja ki a károkozás jogellenességét? 
+   5. a szükséghelyzet 
+   6. a károsult beleegyezése 
+   7. a jogszabály által megengedett magatartás 
+   8. a működési körön kívül eső elháríthatatlan ok 
+ 
+420. A kártérítési követelések elévülési ideje a termékfelelősség körében… 
+   1. 6 hónap 
+   2. 1 év 
+   3. 2 év 
+   4. 3 év 
+ 
+421. Mikor mentesül a gyártó a termékfelelősség alól? 
+   1. ha bizonyítja, hogy nem gyártója, csak forgalmazója az adott terméknek 
+   2. ha bizonyítja, hogy a tudomány és technika állása szerint a termék hibája felismerhető volt 
+   3. ha bizonyítja, hogy a kár bekövetkeztében harmadik személy magatartása is közrehatott
+   4. ha bizonyítja, hogy a terméket nem üzletszerű forgalmazás céljából állította elő 
+ 
+          
+________________
+ÖRÖKLÉSI JOG (Ptk.: Hetedik Könyv) 
+ 
+ 
+ 
+422. Közvégrendeletet…  
+   1. kizárólag közjegyző előtt lehet tenni. 
+   2. kizárólag bíróság előtt lehet tenni. 
+   3. kizárólag ügyvédi ellenjegyzéssel lehet tenni. 
+   4. közjegyző vagy bíróság előtt lehet tenni. 
+ 
+423. Az alábbiak közül melyik NEM kiesési ok az öröklési jogban? 
+A) lemondás az öröklésről  
+   2. érdemtelenség  
+   3. kitagadás  
+   4. eltiltás  
+ 
+424. Az örökhagyó által aláírt és más által írt, közjegyzőnél személyesen letétbe helyezett végrendelet… 
+   1. közvégrendeletnek minősül 
+   2. érvénytelen, mivel zárt iratként kell a végrendeletet letétbe helyezni 
+   3. két tanú aláírásával érvényes 
+   4. érvényes írásbeli magánvégrendeletnek minősül 
+ 
+425. Az örökhagyónak (Ö) három gyermeke van (Gy1, Gy2, Gy3), akik közül Gy1 kiesett az öröklésből. Gy1-nek két szerzőképes gyermeke van (U1 és U2), de nincs túlélő házastársa. A törvényes öröklés rendje szerint mennyit örököl U1 és Gy2?   
+   1. U1 1/4 részt és Gy2 1/4 részt  
+   2. U1 fele részt, Gy2 1/4 részt  
+   3. U1 1/6 részt, Gy2 1/3 részt  
+   4. U1 1/3 részt, Gy2 1/3 részt  
+ 
+426. A szokásos mértékű ajándékot… 
+   1. mindig osztályra kell bocsátani 
+   2. akkor kell osztályra bocsátani, ha az örökhagyó kikötötte 
+   3. csak akkor kell osztályra bocsátani, ha ingatlan 
+   4. az örökhagyó kifejezett kikötése esetén sem kell osztályra bocsátani 
+ 
+427. Ági vagyonnak minősül... 
+   1. szülőtől visszterhesen kapott vagyon, ha ezek vagyonában a vagyontárgy ági természetű volt 
+   2. a testvértől és annak leszármazójától háramlott vagyon, ha ezek vagyonában az már ági jellegű volt 
+   3. a leszármazótól háramlott vagyon, ha azt a nagyszülőtől visszterhesen kapta 
+   4. testvértől vagy annak leszármazójától háramlott vagyon, ha azt a testvér a szülőtől visszterhesen kapta 
+ 
+428. Az írásbeli magánvégrendelet érvénytelen, ha a tanú… 
+   1. nem ismeri a végrendelet tartalmát 
+   2. nem tudja, hogy végrendelet tételénél működik közre 
+   3. cselekvőképtelen  
+D) süketnéma 
+ 
+429. Mit nevezünk cum viribus felelősségnek? 
+   1. az örökös felelősségét jelenti: a hagyatéki tartozásokért a hitelezőkkel szemben saját vagyontárgyaival is felel az öröksége erejéig 
+   2. az örökös felelősségét jelenti: a hagyatéki tartozásokért a hitelezőkkel szemben a hagyaték tárgyaival és annak hasznaival felel, ha betartja a törvényi sorrendet 
+   3. az örökös felelősségét jelenti: a hagyatéki tartozásokért a hitelezőkkel szemben saját vagyontárgyaival is felel 
+   4. az örökös felelősségét jelenti: a hagyatéki tartozásokért a hitelezőkkel szemben öröksége erejéig felel 
+ 
+430. A magyar jogban a törvényes öröklés… 
+   1. mögöttes jellegű (szubszidiárius), mert a végintézkedésen alapuló öröklés az elsődleges 
+   2. a priori 
+   3. kizárólagos 
+   4. korlátozott az ági öröklés által 
+ 
+431. Mire jogosult az özvegyi jog jogosultja? 
+   1. egy gyermekrészre a hagyatékból, valamint bizonyos dolgokon haszonélvezetre  
+   2. az állagörökös tulajdonában álló dolgot birtokolni és használni, hasznait nem szedheti 
+   3. az állagörökös tulajdonában álló dolgot birtokolni, de nem használhatja 
+   4. az ági örökös tulajdonában álló dolgot birtokolni és használni, hasznait nem szedheti 
+ 
+432. Melyik állítás igaz? 
+   1. a lemondás a hagyaték megnyílása után, a visszautasítás a hagyaték megnyílása előtt történik 
+   2. a lemondás lehetséges meghatározott személy javára, a visszautasítás nem 
+   3. az örökség visszautasítása kizárólag írásban érvényes 
+   4. a lemondás sohasem hat ki a leszármazókra 
+ 
+433. Ha az örökhagyó újabb végrendeletet tesz, a korábbi végrendeletének az újabb végrendelet rendelkezéseivel ellentétes rendelkezései… 
+   1. érvénytelenné válnak 
+   2. hatálytalanná válnak 
+   3. nem válnak megtámadhatókká 
+   4. nem minősülnek visszavontnak 
+ 
+434. Az írásbeli magánvégrendelet érvénytelen, ha a tanú… 
+   1. nem ismeri a végrendelet tartalmát 
+   2. nem tudja, hogy végrendelet tételénél működik közre 
+   3. cselekvőképtelen  
+   4. süketnéma 
+ 
+435. A szóbeli végrendelet érvényes, ha a tanú… 
+   1. süket 
+   2. süketnéma 
+   3. írástudatlan 
+   4. 14. életévét betöltött kiskorú 
+ 
+436. Mit nevezünk cum viribus felelősségnek? 
+   1. az örökös felelősségét jelenti: a hagyatéki tartozásokért a hitelezőkkel szemben saját vagyontárgyaival is felel az öröksége erejéig 
+   2. az örökös felelősségét jelenti: a hagyatéki tartozásokért a hitelezőkkel szemben a hagyaték tárgyaival és annak hasznaival felel, ha betartja a törvényi sorrendet 
+   3. az örökös felelősségét jelenti: a hagyatéki tartozásokért a hitelezőkkel szemben saját vagyontárgyaival is felel 
+   4. az örökös felelősségét jelenti: a hagyatéki tartozásokért a hitelezőkkel szemben öröksége erejéig felel 
+ 
+437. A magyar jogban a törvényes öröklés… 
+   1. mögöttes jellegű (szubszidiárius), mert a végintézkedésen alapuló öröklés az elsődleges 
+   2. a priori 
+   3. kizárólagos 
+   4. korlátozott az ági öröklés által 
+ 
+438. Az alábbiak közül melyik NEM kiesési ok az öröklési jogban? 
+   1. lemondás az öröklésről  
+   2. érdemtelenség  
+   3. kitagadás  
+   4. eltiltás  
+ 
+439. Az örökhagyónak (Ö) három gyermeke van (Gy1, Gy2, Gy3), akik közül Gy1 kiesett az öröklésből. Gy1-nek két szerzőképes gyermeke van (U1 és U2), de nincs túlélő házastársa. A törvényes öröklés rendje szerint mennyit örököl U1 és Gy2?   
+   1. U1 1/4 részt és Gy2 1/4 részt  
+   2. U1 fele részt, Gy2 1/4 részt  
+   3. U1 1/6 részt, Gy2 1/3 részt  
+   4. U1 1/3 részt, Gy2 1/3 részt  
+ 
+440. Közvégrendeletet…  
+   1. kizárólag közjegyző előtt lehet tenni 
+   2. kizárólag bíróság előtt lehet tenni 
+   3. kizárólag ügyvédi ellenjegyzéssel lehet tenni 
+   4. közjegyző vagy bíróság előtt lehet tenni 
+ 
+441. A szokásos mértékű ajándékot… 
+   1. mindig osztályra kell bocsátani 
+   2. akkor kell osztályra bocsátani, ha az örökhagyó kikötötte 
+   3. csak akkor kell osztályra bocsátani, ha ingatlan 
+   4. az örökhagyó kifejezett kikötése esetén sem kell osztályra bocsátani 
+ 
+442. Az örökhagyó által aláírt és más által írt, közjegyzőnél személyesen letétbe helyezett végrendelet… 
+   1. közvégrendeletnek minősül 
+   2. érvénytelen, mivel zárt iratként kell a végrendeletet letétbe helyezni 
+   3. két tanú aláírásával érvényes 
+   4. érvényes írásbeli magánvégrendeletnek minősül 
+ 
+443. Melyik állítás igaz? 
+   1. a lemondás a hagyaték megnyílása után, a visszautasítás a hagyaték megnyílása előtt történik 
+   2. a lemondás lehetséges meghatározott személy javára, a visszautasítás nem 
+   3. az örökség visszautasítása kizárólag írásban érvényes 
+   4. a lemondás sohasem hat ki a leszármazókra 
+ 
+444. Ha az örökhagyó újabb végrendeletet tesz, a korábbi végrendeletének az újabb végrendelet rendelkezéseivel ellentétes rendelkezései… 
+   1. érvénytelenné válnak 
+   2. hatálytalanná válnak 
+   3. nem válnak megtámadhatókká 
+   4. nem minősülnek visszavontnak 
+ 
+445. Ági vagyonnak minősül... 
+   1. szülőtől visszterhesen kapott vagyon, ha ezek vagyonában a vagyontárgy ági természetű volt 
+   2. a testvértől és annak leszármazójától háramlott vagyon, ha ezek vagyonában az már ági jellegű volt 
+   3. a leszármazótól háramlott vagyon, ha azt a nagyszülőtől visszterhesen kapta 
+   4. testvértől vagy annak leszármazójától háramlott vagyon, ha azt a testvér a szülőtől visszterhesen kapta 
+ 
+446. Mire jogosult az özvegyi jog jogosultja? 
+   1. egy gyermekrészre a hagyatékból, valamint bizonyos dolgokon haszonélvezet  
+   2. az állagörökös tulajdonában álló dolgot birtokolni és használni, hasznait nem szedheti 
+   3. az állagörökös tulajdonában álló dolgot birtokolni, de nem használhatja 
+   4. az ági örökös tulajdonában álló dolgot birtokolni és használni, hasznait nem szedheti 
+ 
+447. Vonatkozik-e az elévülés szabálya az öröklési igényre? 
+   1. nem, az öröklési igény nem évül el 
+   2. igen, a kötelesrészre 5, az ingó hagyatéki tárgyakra 10, az ingatlan hagyatéki tárgyakra 15 év az elévülési idő 
+   3. igen, minden esetben 5 év az elévülési idő 
+   4. igen, ha végintézkedésen alapul az öröklés rendje 
+ 
+448. Ki NEM lehet örökös? 
+   1. méhmagzat, ha az öröklés megnyíltakor már megfogant és utóbb élve megszületik 
+   2. méhmagzat, ha az öröklés megnyíltát követően fogant meg és utóbb élve megszületik 
+   3. jogi személyiséggel rendelkező gazdálkodó szervezet 
+   4. jogi személyiséggel rendelkező non-profit szervezet 
+ 
+449. Ki lehet örökhagyó? 
+   1. méhmagzat 
+   2. jogi személyiséggel rendelkező gazdálkodó szervezet 
+   3. állam 
+   4. cselekvőképtelen kiskorú személy 
+ 
+450. Ki tehet érvényesen szóbeli vagy írásbeli magán végrendeletet? 
+   1. korlátozottan cselekvőképes kiskorú személy 
+   2. vagyoni jognyilatkozatai tekintetében részlegesen korlátozott cselekvőképes nagykorú személy 
+   3. süketnéma személy 
+   4. jogi személyiséggel rendelkező szervezet 
+ 
+451. Az élettársak ugyanabba az okiratba foglalt végrendelkezése… 
+   1. érvényes, ha az életközösség fennállta alatt saját kezűleg írták és aláírták 
+   2. érvényes, ha az életközösség fennállta alatt saját kezűleg írták és két tanú jelenlétében aláírták 
+   3. érvényes, ha közjegyző előtt, a közvégrendeletekre előírt feltételek szerint tették meg
+   4. érvénytelen 
+ 
+452. Melyik a közös jogkezelő szervezet az alábbiak közül☺? 
+   1. MAHASZ 
+   2. HAMASZ (!) 
+   3. MHSZ 
+   4. Mahart 
+ 
+453. A több különálló lapból álló más által írt közös végrendelet csak akkor érvényes, ha… 
+   1. minden lapját folyamatos sorszámozással látták el, továbbá minden lapját a végrendelkezők és mindkét tanú is aláírta 
+   2. minden lapját folyamatos sorszámozással látták el, továbbá minden oldalát a végrendelkezők és mindkét tanú is aláírta  
+   3. minden oldalát folyamatos sorszámozással látták el, továbbá minden lapját a végrendelkezők és mindkét tanú is aláírta 
+   4. minden oldalát folyamatos sorszámozással látták el, továbbá minden oldalát a végrendelkezők és mindkét tanú is aláírta 
+ 
+454. Az alábbiak közül melyik magatartás NEM minősül érdemtelenségi oknak? 
+   1. erkölcstelen életmód 
+   2. az örökhagyó élete elleni cselekmény 
+   3. az örökhagyó végrendeletben részesített leszármazója élete elleni cselekmény 
+   4. az örökhagyó végrendeletben részesített testvére élete elleni cselekmény 
+ 
+455. Milyen fajtája NINCS az írásbeli magánvégrendeletnek? 
+A)         allográf- és holográf végrendelet 
+   2. allográf- és közös végrendelet 
+   3. allográf végrendelet és kiskorú személy által – törvényes képviselő és gyámhatóság által jóváhagyott – öröklési szerződés 
+   4. allográf és közjegyzőnél letett végrendelet 
+ 
+456. Az örökhagyó elejétől végéig saját kezűleg írja meg két lap három oldalára magánvégrendeletét. Mennyiszer írhatja alá legkevesebb helyen végrendeletét, hogy az még érvényes lehessen? 
+   1. egyszer, a legutolsó oldalon 
+   2. kétszer, mindkét lap alján 
+   3. kétszer, az első lapon és az utolsó oldalon 
+   4. háromszor, minden oldalon 
+ 
+457. Latin nyelvtanár tehet-e érvényesen írásbeli végrendeletet latin nyelven? 
+A)         nem, mert holt nyelven nem lehet érvényesen végrendelkezni 
+   2. igen, de csak ha a tanúk is olvasnak latin nyelven 
+   3. igen, de csak ha a tanúk is olvasnak és írnak latin nyelven 
+   4. igen 
+ 
+458. A több lapból álló allográf magánvégrendelet csak akkor lesz érvényes, ha… 
+   1. a lapokat folyamatos sorszámmal látják el, s az örökhagyó minden oldalt aláírt 
+   2. a lapokat folyamatos sorszámmal látják el, s az örökhagyó és mindkét tanú minden 
+oldalt aláírt 
+   3. a lapokat folyamatos sorszámmal látják el, s az örökhagyó minden lapot aláírt 
+   4. a lapokat folyamatos sorszámmal látják el, s az örökhagyó és mindkét tanú minden 
+lapot aláírt 
+ 
+459. Melyik állítás NEM igaz? Az örökhagyó a törvényes örökösét… 
+   1. szóbeli végrendeletben is kizárhatja a kötelesrészt meghaladó mértékű törvényes öröklésből. 
+   2. érvényesen nem szoríthatja a kötelesrész mértékére. 
+   3. kifejezett nyilatkozattal és indoklással kizárhatja a kötelesrészt meghaladó mértékű törvényes öröklésből. 
+   4. hallgatólagosan is kizárhatja a kötelesrészt meghaladó mértékű törvényes öröklésből. 
+ 
+460. Az örökhagyó által örökösnek nevezett leszármazó, örökhagyó halálát követő kiesése esetére, ezen kiesett leszármazójára háramlott hagyatékra, örökösként megjelölt személy… 
+   1. helyettes örökös nevezésnek minősül, és érvényes. 
+   2. helyettes örökös nevezésnek minősül, és érvénytelen. 
+   3. utóörökös nevezésnek minősül, és érvényes. 
+   4. utóörökös nevezésnek minősül, és érvénytelen. 
+ 
+461. Ki nem lehet utóörökös? 
+   1. az örökhagyó halála után megfogant leszármazó 
+   2. az örökhagyó távolabbi leszármazója 
+   3. az örökhagyó túlélő házastársa 
+   4. az állam 
+ 
+462. A korlátozottan cselekvőképes személy írásbeli magánvégrendelete… 
+A)         nem lehet érvényes. 
+   2. csak két, cselekvőképes tanú aláírásával lehet érvényes. 
+   3. csak a törvényes képviselő és a gyámhatóság jóváhagyása mellett lehet érvényes. 
+   4. az általános alaki és tartalmi szabályok betartása mellett lehet érvényes. 
+ 
+463. A korlátozottan cselekvőképes kiskorú személy halál esetére szóló ajándékozása… 
+A)         nem lehet érvényes. 
+   2. csak két, cselekvőképes tanú aláírásával lehet érvényes. 
+   3. csak a törvényes képviselő és a gyámhatóság jóváhagyása mellett lehet érvényes. 
+   4. az általános alaki és tartalmi szabályok betartása mellett lehet érvényes. 
+ 
+464. Mit jelent a ”favor testamenti” elve? 
+   1. A végrendelet értelmezésénél az örökhagyó akaratát a legmesszebbmenőkig figyelembe kell venni. 
+   2. A végintézkedésen alapuló öröklés megelőzi a törvényes öröklés rendjét. 
+   3. Az állam szükségképpeni törvényes örökös, s mint ilyen nem illeti a visszautasítás joga. 
+   4. Minden cselekvőképes ember általános végintézkedési képességgel rendelkezik. 
+ 
+465. A gondnokság alá helyezés nélkül, cselekvőképtelen állapotban lévő személy által tett végrendelet… 
+   1. nem lehet érvényes. 
+   2. csak akkor érvényes, ha a végrendelet tartalmából arra lehet következtetni, hogy azt cselekvőképes állapotában is megtette volna. 
+   3. csak akkor érvényes, ha az érintett személy utóbb visszanyeri cselekvőképességét, és onnantól számított 1 éven belül nem támadja meg végrendeletét. 
+   4. csak akkor érvényes, ha az érintett személy utóbb visszanyeri cselekvőképességét, és onnantól számított 5 éven belül nem támadja meg végrendeletét. 
+ 
+466. Milyen fórum előtt lehet érvényesen közvégrendeletet tenni? 
+   1. önkormányzati jegyző és közigazgatási bíróság előtt 
+   2. közigazgatási bíróság előtt 
+   3. közigazgatási bíróság és közjegyző előtt 
+   4. közjegyző előtt 
+ 
+467. Érvényességi feltétele-e a ”keltezés helye” az írásbeli magánvégrendeletnek? 
+   1. igen, azt a végrendelet végén kell külön feltüntetni 
+   2. igen, annak legalább a végrendelet tartalmából kell felismerhetőnek lennie 
+   3. nem, elég ha a ”keltezés helyét” utóbb a közreműködő tanúk igazolják 
+   4. nem 
+ 
+468. Érvényességi feltétele-e a ”keltezés időpontja” az írásbeli magánvégrendeletnek? 
+   1. igen, azt a végrendelet végén kell külön feltüntetni 
+   2. igen, annak legalább a végrendelet tartalmából kell felismerhetőnek lennie 
+   3. nem, elég ha a ”keltezés idejét” utóbb a közreműködő tanúk igazolják 
+   4. nem 
+ 
+469. Mi NEM feltétele a növedékjog érvényesülésének? 
+   1. az örökhagyó több örököst nevezzen, amivel a törvényes öröklést kizárja 
+   2. az örökhagyónak csak a nem ági jellegű hagyatékára terjed ki 
+   3. az örökhagyó által megnevezett valamelyik örökös kiesése 
+   4. az örökhagyó által megnevezett és utóbb kiesett örökösnek ne legyen helyettes örököse 
+ 
+470. Kétség esetében a meghagyás… 
+A)         az örököst terheli. 
+   2. a dologi hagyományost terheli. 
+   3. a kötelmi hagyományost terheli. 
+   4. az illetékes hatóságot terheli. 
+ 
+471. Az öröklésből való kizárást az örökhagyónak… 
+   1. nem kell indokolnia 
+   2. csak akkor kell indokolnia, ha azzal törvényes örökösét kívánja kizárni 
+   3. csak akkor kell indokolnia, ha a kötelesrészből kívánja örökösét kizárni D)         indokolnia kell 
+ 
+472. Milyen örökösnevezést NEM tesz lehetővé a Ptk.? 
+   1. helyettes örökös nevezése 
+   2. törvényes helyettes örökös nevezése 
+   3. utóörökös nevezése. 
+   4. helyettes utóörökös nevezése 
+ 
+473. Milyen hagyományrendelést NEM tesz lehetővé a Ptk.? 
+A)         kötelmi hagyomány 
+   2. utóhagyomány 
+   3. univerzális hagyomány 
+   4. dologi hagyomány 
+ 
+474. Az örökös – feltételezve, hogy az örökhagyó a részesítését a meghagyás teljesítéséhez kívánta kötni -, a meghagyással terhelt részesítést… 
+   1. a jogalap nélküli birtoklás szabályai szerint köteles kiadni 
+   2. a jogalap nélküli gazdagodás szabályai szerint köteles kiadni 
+   3. a meghagyás kedvezményezettjének tulajdoni igénye alapján köteles kiadni 
+   4. a kötelesrészi igények kielégítése előtt köteles kiadni 
+ 
+475. Az élettársak, mint örökhagyók köthetnek-e érvényesen ugyanabban az okiratban öröklési szerződést? 
+   1. nem 
+   2. igen, de csak az életközösség fennállása alatt 
+   3. igen, de csak közokirati formában 
+   4. igen, de csak az életközösség fennállása alatt és közokirati formában 
+ 
+476. A házastársak, mint örökhagyók köthetnek-e érvényesen ugyanabban az okiratban öröklési szerződést? 
+   1. nem 
+   2. igen, de csak az életközösség fennállása alatt 
+   3. igen, de csak közokirati formában 
+   4. igen, de csak az életközösség fennállása alatt és közokirati formában 
+ 
+477. Megítélése szerint, Ön melyik Karral áll(t) jogviszonyban☺? 
+   1. Jog- és Állattudományi Kar (!) 
+   2. Jog- és Áltudományi Kar 
+   3. Jog- és Hálatudományi Kar 
+   4. Jog- és Álomtudományi Kar 
+ 
+478. Írja le a „kerékpár” kifejezést csupa ”i” betűvel☺! 
+   1. Mi van?! – Most már tutti, hogy én is feljelentem a Polgári Jogi Tanszéket! 
+   2. kirikpir 
+   3. kirikpiri 
+   4. Te, csacsi: BICIKLI!
